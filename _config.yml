@@ -1,5 +1,6 @@
-title: Researcher
-url: "mjmarte.github.io"
+locale: "en-US"
+title: "Researcher"
+url: https://mjmarte.github.io
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
