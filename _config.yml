@@ -1,5 +1,5 @@
 locale: "en-US"
-title: "Researcher"
+title: "Manuel J. Marte"
 url: https://mjmarte.github.io
 
 markdown: kramdown
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://www.bu.edu/aphasiaresearch/"
+footer_text: "Aphasia Research Laboratory"
 
 sass:
     style: compressed
