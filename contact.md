@@ -3,24 +3,21 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [mjmarte@bu.edu](mailto:mjmarte@bu.edu)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 635 Commonwealth Avenue
 >
-> London
+> Boston
 >
-> United Kingdom
+> Massachusetts 
 
 ---
 
-## Social
+## Other
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Github](https://github.com/mjmarte)
+2. [Twitter](https://twitter.com/manueljmarte)
