@@ -9,10 +9,11 @@ is_contact: true
 
 ## Mailing Address
 
+
+> Aphasia Research Laboratory
 > 635 Commonwealth Avenue
->
+> Boston University
 > Boston
->
 > Massachusetts 
 
 ---
