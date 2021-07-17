@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="image.png">
 
 Currently, I am a second-year Ph.D. student and NIDCD T32 and [NSF UtB](https://www.bu.edu/neurophotonics-nrt/) trainee in the Speech, Language & Hearing Sciences program at [Sargent College](https://www.bu.edu/sargent/), Boston University. 
 
