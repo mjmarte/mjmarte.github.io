@@ -8,4 +8,4 @@ I am a second-year Ph.D. student and NIH/NIDCD T32 and [NSF UtB](https://www.bu.
 
 I am also a clinical speech-language pathologist (SLP) specializing in traumatic brain injury and stroke neurorehabilitation. Prior to my work in Boston, I was an SLP and clinical supervisor at the [Northeast Center for Rehabilitation and Brain Injury](http://www.northeastcenter.com), situated in the bucolic Hudson Valley, New York.  
 
-When I am not working, I am spending time with my family, cycling, hiking, and reading. I like film, music, philosophy, science, and podcasts about these things.
+When I am not working, I am spending time with my family, cycling, hiking, and reading. I like film, music, philosophy, science, basketball, and podcasts about these things.
