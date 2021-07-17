@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="image.png">
+<img class="profile-picture" src="image-2.jpeg">
 
 I am a second-year Ph.D. student and NIH/NIDCD T32 and [NSF UtB](https://www.bu.edu/neurophotonics-nrt/) trainee at Boston University. Here, I work with the support and mentorship of Dr. [Swathi Kiran](https://www.bu.edu/sargent/profile/swathi-kiran-ph-d-ccc-slp/) in the [Aphasia Research Laboratory](https://www.bu.edu/aphasiaresearch/).
 
