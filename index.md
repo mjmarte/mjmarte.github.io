@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="image.png">
 
-I am a second-year Ph.D. student and NIH/NIDCD T32 and [NSF UtB](https://www.bu.edu/neurophotonics-nrt/) trainee in the Speech, Language & Hearing Sciences program at [Sargent College](https://www.bu.edu/sargent/), Boston University. 
+I am a second-year Ph.D. student and NIH/NIDCD T32 and [NSF UtB](https://www.bu.edu/neurophotonics-nrt/) trainee in the Speech, Language & Hearing Sciences program at Sargent College, Boston University. 
 
 I work with the support and mentorship of Dr. [Swathi Kiran](https://www.bu.edu/sargent/profile/swathi-kiran-ph-d-ccc-slp/) in the [Aphasia Research Laboratory](https://www.bu.edu/aphasiaresearch/).
 
