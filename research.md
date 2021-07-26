@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-I came to the Aphasia Lab to instrumentalize my clinical knowledge and interrogate topics at the intersection of language and brain injury. Boardly, I am interested in characterizing the ways in which life experiences (e.g., bilingualism) modulate language representation in individuals, and furthermore, how those changes manifest in the presence of aphasia. Below are descriptions and (eventually, hopefully) links to results of projects I am currently or have previously worked on.
+I came to the Aphasia Lab to instrumentalize my clinical knowledge and interrogate topics at the intersection of language and brain injury. Broadly, I am interested in characterizing the ways in which life experiences (e.g., bilingualism) modulate language representation in individuals, and furthermore, how those changes manifest in the presence of aphasia. Below are descriptions and (eventually, hopefully) links to results of projects I am currently or have previously worked on.
 
 ## The cognate effect in bilingual aphasia
 Cognates share a continuum of overlapping phonological and orthographic features between languages, resulting in a facilitatory effect during lexical access (Costa et al., 2000). In bilingual individuals, a spectrum of language experiences (e.g., use, age of acquisition) may influence the extent of facilitation between native (L1) and second language (L2; Rosselli et al., 2014). Aphasia, an access deficit, tests the resilience of the facilitation effect (Kohnert, 2004). We sought to compare the factors influencing naming accuracy in L1 and L2 on English-Spanish cognates and noncognates in healthy bilinguals and bilingual persons with aphasia while examining the influence of language experience. 
