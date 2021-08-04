@@ -3,7 +3,7 @@ title: "Manuel J. Marte"
 url: https://mjmarte.github.io
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
@@ -19,6 +19,6 @@ nav:
  - name: "Research"
    link: "research"
  - name: "Curriculum Vitae"
-   link: "css/main.scss"
+   link: "cv.pdf"
  - name: "Contact"
    link: "contact"
