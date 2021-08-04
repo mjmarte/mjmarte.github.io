@@ -19,6 +19,6 @@ nav:
  - name: "Research"
    link: "research"
  - name: "Curriculum Vitae"
-   link: "cv.pdf"
+   link: "css/main.scss"
  - name: "Contact"
    link: "contact"
