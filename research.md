@@ -6,7 +6,7 @@ Broadly, I am interested in characterizing the ways in which life experiences (e
 ## The cognate effect in bilingual aphasia (Marte et al., in preparation)
 In this study, we sought to compare the factors influencing naming accuracy in L1 and L2 on English-Spanish cognates and noncognates in healthy bilinguals and bilingual persons with aphasia.
 
-Using logistic mixed-effects regression modeling, results suggested that (i) mathematical treatments (e.g., principal component analysis) of language experience data is an informative predictor of naming in both healthy and clinical bilingual populations, and (ii) cognateness yields only minor benefits for bilingual persons with aphasia, exhibiting minimal predictive power on naming accuracy, relative to healthy bilinguals.
+Using logistic mixed-effects regression modeling, results suggested that (i) mathematical treatments (e.g., principal component analysis) of language experience data yield informative predictors of naming in both healthy and clinical bilingual populations, and (ii) cognateness yields only minor benefits for bilingual persons with aphasia, exhibiting minimal predictive power on naming accuracy, relative to healthy bilinguals.
 
 ## Dynamic causal modeling of semantic decisions in bilingual aphasia (Marte et al., under review)
 In this study, we used a case-series approach to compare the neural correlates of semantic connectivity in four bilingual persons with aphasia (BWA) and four bilingual healthy controls (BHC) performing a semantic judgment task. 
