@@ -10,5 +10,5 @@ Prior to BU, I was a clinical speech-language pathologist and practicum supervis
 
 When I am not working, I am spending time with my family, cycling, hiking, and reading. I like film, music, philosophy, science, basketball, and podcasts about these things.
 
-* [Email](mailto:mjmarte@bu.edu)
-* [Twitter](https://twitter.com/manueljmarte)
+* [mjmarte@bu.edu](mailto:mjmarte@bu.edu)
+* [@manueljmarte](https://twitter.com/manueljmarte)
