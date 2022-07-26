@@ -7,11 +7,11 @@ layout: default
 ## Working Papers
 **Marte, M.J.**, Peñaloza, C., & Kiran, S. (_in review_). The cognate effect on lexical access in bulingual aphasia: Evidence from the Boston Naming Test.
 
-**Marte, M.J.**, Buckshaw, R., Meier, E.L., Peñaloza, C., & Kiran, S. (_in preparation_). Effective connectivity during semantic decisions in Spanish-English bilinguals with aphasia: A case series.
+**Marte, M.J.**, Addesso, D., & Kiran, S. (_in preparation_). Association between social determinants of health and disparities in stroke- and neurorehabilitation-associated outcomes in the poststroke U.S. Hispanic/Latino population.
 
 Peñaloza, C.\*, **Marte, M.J.**\*, Billot, A., & Kiran, S. (_in preparation_). Cross-linguistic effects of sequential semantic treatment in trilingual aphasia.
 
-**Marte, M.J.**, Addesso, D., & Kiran, S. (_in preparation_). Disparities in stroke- and neurorehabilitation-associated outcomes among U.S. Hispanics.
+**Marte, M.J.**, Buckshaw, R., Meier, E.L., Peñaloza, C., & Kiran, S. (_in preparation_). Effective connectivity during semantic decisions in Spanish-English bilinguals with aphasia: A case series.
 
 ## Oral Presentations
 **Marte, M.J.**, Scimeca, M., Addesso, D., Abdollahi, F., & Kiran, S. (_accepted_). Hispanic Stroke Care in the United States: Insights from Epidemiology, Health Disparity, and Clinical Practice. _American Speech-Language-Hearing Association Convention 2022_, New Orleans, LA.
