@@ -32,4 +32,5 @@ Braun, E. J., Gao, Y., Carpenter, E., **Marte, M.J.**, Scimeca, M., Abdollahi, F
 Oldani, P., Hogan, C., Sauvageau, A., **Marte, M.J.**, Rudz, D., Agulia, B., Hanley, S., Quinn, T., Sharma, S., Scerra, N., & Ohrbach, R. (2014, November). The effects of varying levels of repeated anodal transcranial direct current stimulation (tDCS) of the motor cortex on visuo-motor task performance. _Biomedical Engineering Society 2014 Annual Meeting_, San Antonio, TX.
 
 \* = shared first-authorship.
+
 ^ = student mentee. 
