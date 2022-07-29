@@ -17,6 +17,8 @@ Peñaloza, C.\*, **Marte, M.J.**\*, Billot, A., & Kiran, S. (_in preparation_). 
 **Marte, M.J.**, Scimeca, M., Addesso, D., Abdollahi, F., & Kiran, S. (_accepted_). Hispanic Stroke Care in the United States: Insights from Epidemiology, Health Disparity, and Clinical Practice. _American Speech-Language-Hearing Association Convention 2022_, New Orleans, LA.
 
 ## Poster Presentations
+**Marte, M. J.**, Addesso, D., Abdollahi, F., & Kiran, S. (_accepted_). U.S. Hispanic ethnicity and stroke- and neurorehabilitation-associated outcomes: Disparity-driven heterogeneity. _16th Annual Eleanor M. Saffran Conference on Cognitive Neuroscience and Rehabilitation of Communication Disorders_, Philadelphia, PA
+
 **Marte, M.J.**, Billot, A., Peñaloza, C., & Kiran, S. (2022, June). Cross-linguistic effects of a semantic treatment for anomia provided in three languages: Evidence from multilingual aphasia. _International Aphasia Rehabilitation Conference 2022_, Philadelphia, PA.
 
 Braun, E. J., Gao, Y., Carpenter, E., **Marte, M.J.**, Scimeca, M., Abdollahi, F., Yücel, M. A., Boas, D. A., \& Kiran, S. (2021, October). Use of fNIRS to investigate cortical activation for conversational responses and narrative discourse. _Society for functional Near-Infrared Spectroscopy 2021_, virtual conference.
