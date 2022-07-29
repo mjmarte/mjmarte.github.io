@@ -7,16 +7,18 @@ layout: default
 ## Working Papers
 **Marte, M.J.**, Peñaloza, C., & Kiran, S. (_in review_). The cognate effect on lexical access in bulingual aphasia: Evidence from the Boston Naming Test.
 
-**Marte, M.J.**, Addesso, D., & Kiran, S. (_in preparation_). Association between social determinants of health and disparities in stroke- and neurorehabilitation-associated outcomes in the poststroke U.S. Hispanic/Latino population.
+**Marte, M.J.**, Addesso, D.^, & Kiran, S. (_in preparation_). Association between social determinants of health and disparities in stroke- and neurorehabilitation-associated outcomes in the poststroke U.S. Hispanic/Latino population.
 
 Peñaloza, C.\*, **Marte, M.J.**\*, Billot, A., & Kiran, S. (_in preparation_). Cross-linguistic effects of sequential semantic treatment in trilingual aphasia.
 
 **Marte, M.J.**, Buckshaw, R., Meier, E.L., Peñaloza, C., & Kiran, S. (_in preparation_). Effective connectivity during semantic decisions in Spanish-English bilinguals with aphasia: A case series.
 
 ## Oral Presentations
-**Marte, M.J.**, Scimeca, M., Addesso, D., Abdollahi, F., & Kiran, S. (_accepted_). Hispanic Stroke Care in the United States: Insights from Epidemiology, Health Disparity, and Clinical Practice. _American Speech-Language-Hearing Association Convention 2022_, New Orleans, LA.
+**Marte, M.J.**, Scimeca, M., Addesso, D.^, Abdollahi, F., & Kiran, S. (_accepted_). Hispanic Stroke Care in the United States: Insights from Epidemiology, Health Disparity, and Clinical Practice. _American Speech-Language-Hearing Association Convention 2022_, New Orleans, LA.
 
-## Poster Presentations
+## Poster Presentations 
+Addesso, D.^, **Marte, M. J.**, Abdollahi, F., & Kiran, S. (_accepted_). Social determinants of health contributing to disparities in stroke-associated variables in Hispanic populations. _16th Annual Eleanor M. Saffran Conference on Cognitive Neuroscience and Rehabilitation of Communication Disorders_, Philadelphia, PA
+
 **Marte, M. J.**, Addesso, D., Abdollahi, F., & Kiran, S. (_accepted_). U.S. Hispanic ethnicity and stroke- and neurorehabilitation-associated outcomes: Disparity-driven heterogeneity. _16th Annual Eleanor M. Saffran Conference on Cognitive Neuroscience and Rehabilitation of Communication Disorders_, Philadelphia, PA
 
 **Marte, M.J.**, Billot, A., Peñaloza, C., & Kiran, S. (2022, June). Cross-linguistic effects of a semantic treatment for anomia provided in three languages: Evidence from multilingual aphasia. _International Aphasia Rehabilitation Conference 2022_, Philadelphia, PA.
