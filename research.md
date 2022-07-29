@@ -30,3 +30,6 @@ Braun, E. J., Gao, Y., Carpenter, E., **Marte, M.J.**, Scimeca, M., Abdollahi, F
 **Marte, M.J.** & Anema, I. (2015, May). Training Effects on Suprasegmental Features in Oral Reading of Non-Native English Speakers. _10th International Symposium on Bilingualism_, New Brunswick, NJ.  
 
 Oldani, P., Hogan, C., Sauvageau, A., **Marte, M.J.**, Rudz, D., Agulia, B., Hanley, S., Quinn, T., Sharma, S., Scerra, N., & Ohrbach, R. (2014, November). The effects of varying levels of repeated anodal transcranial direct current stimulation (tDCS) of the motor cortex on visuo-motor task performance. _Biomedical Engineering Society 2014 Annual Meeting_, San Antonio, TX.
+
+* = shared first-authorship.
+^ = student mentee. 
