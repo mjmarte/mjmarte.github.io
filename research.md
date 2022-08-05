@@ -5,7 +5,7 @@ layout: default
 **Marte, M.J.**\*, Carpenter, E.\*, Falconer, I., Scimeca. M., Abdollahi, F., Peñaloza, C., & Kiran, S. (2022). LEX-BADAT: Language EXperience in Bilinguals With and Without Aphasia DATaset. _Frontiers in Psychology_. 13:875928. doi: 10.3389/fpsyg.2022.875928 | [OA](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.875928/full)
 
 ## Working Papers
-**Marte, M.J.**, Peñaloza, C., & Kiran, S. (_in review_). The cognate effect on lexical access in bulingual aphasia: Evidence from the Boston Naming Test.
+**Marte, M.J.**, Peñaloza, C., & Kiran, S. (_in review_). The cognate effect on lexical access in bilingual aphasia: Evidence from the Boston Naming Test.
 
 **Marte, M.J.**, Addesso, D.^, & Kiran, S. (_in preparation_). Association between social determinants of health and disparities in stroke- and neurorehabilitation-associated outcomes in the poststroke U.S. Hispanic/Latino population.
 
