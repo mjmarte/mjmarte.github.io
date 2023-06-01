@@ -12,7 +12,7 @@ footer_url: "https://www.bu.edu/cbr/"
 footer_text: "Center for Brain Recovery"
 
 sass:
-    style: expanded
+    style: compressed
     sass_dir: _sass
 
 nav:
