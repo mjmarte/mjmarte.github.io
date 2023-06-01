@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://www.bu.edu/aphasiaresearch/"
-footer_text: "Aphasia Research Laboratory"
+footer_url: "https://www.bu.edu/cbr/"
+footer_text: "Center for Brain Recovery"
 
 sass:
     style: compressed
