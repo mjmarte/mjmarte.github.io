@@ -8,7 +8,7 @@ I am a Ph.D. candidate in Speech, Language & Hearing Sciences at Boston Universi
 
 Prior to BU, I was a speech-language pathologist and practicum supervisor specializing in traumatic brain injury and stroke neurorehabilitation. I received my M.S. in Communication Disorders from SUNY New Paltz, where I researched oral reading in multilingual adults and phonological working memory in young children. I received my B.A. in Speech and Hearing Science from the University at Buffalo, where I researched tDCS-induced changes to visuo-motor performance.
 
-I like science and basketball (together or separate). When I am not working, I am spending time with my family, swimming, hiking, and [reading](https://oku.club/user/mjm). 
+When I am not working, I am spending time with my family, swimming, shooting hoops, and [reading](https://oku.club/user/mjm). 
 
 * [mjmarte@bu.edu](mailto:mjmarte@bu.edu)
 * [@manueljmarte](https://twitter.com/manueljmarte)
