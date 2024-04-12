@@ -10,8 +10,6 @@ My primary research interest is bi/multilingual aphasia, using advanced statisti
 
 In collaboration with Dr. [Einat Liebenthal](https://www.mcleanhospital.org/profile/einat-liebenthal) and [The Functional Neuroimaging & Bioinformatics Lab](https://bakerlab.mclean.harvard.edu), my dissertation will examine the contribution of eye gaze, emotional reactivity, and neural activity within a naturalistic paradigm to more holistically characterize aphasic language processing.
 
-<img src="https://github.com/mjmarte/mjmarte.github.io/blob/gh-pages/EyesMoving.gif?raw=true" class="gif"/><img src="https://github.com/mjmarte/mjmarte.github.io/blob/gh-pages/CMIYC.gif?raw=true" class="gif"/>
-
 Prior to BU, I was a speech-language pathologist specializing in traumatic brain injury and stroke neurorehabilitation. I received my M.S. in Communication Disorders from [SUNY New Paltz](https://www.newpaltz.edu/commdis/) and my B.A. in Speech and Hearing Science from the [University at Buffalo](https://arts-sciences.buffalo.edu/cds.html).
 
 When I am not working, I am spending time with my family, shooting hoops, and [reading](https://oku.club/user/mjm). 
