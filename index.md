@@ -4,11 +4,11 @@ layout: default
 
 <img class="profile-picture" src="image.png">
 
-I am a Ph.D. candidate in [Speech, Language & Hearing Sciences](https://www.bu.edu/sargent/academics/departments-programs/speech-language-hearing-sciences/phd-in-slhs/) at Boston University (BU). Here, I work with the support and mentorship of Dr. [Swathi Kiran](https://www.bu.edu/sargent/profile/swathi-kiran-ph-d-ccc-slp/) in the [Center for Brain Recovery](https://www.bu.edu/cbr/). 
+I am a Ph.D. candidate in [Speech, Language & Hearing Sciences](https://www.bu.edu/sargent/academics/departments-programs/speech-language-hearing-sciences/phd-in-slhs/) at Boston University (BU). Here, I work with the support and mentorship of Dr. [Swathi Kiran](https://www.bu.edu/sargent/profile/swathi-kiran-ph-d-ccc-slp/) in the [Center for Brain Recovery](https://www.bu.edu/cbr/).
 
-My primary interests involve applying computational and statistical tools to answer clinical questions regarding bi/multilingual aphasia and to develop a more naturalistic understanding of aphasia more broadly.
+My primary interests involve applying computational and statistical tools to answer clinical questions regarding bi/multilingual aphasia and to develop a more naturalistic understanding of aphasia.
 
-In collaboration with Dr. [Einat Liebenthal](https://www.mcleanhospital.org/profile/einat-liebenthal) and [The Functional Neuroimaging & Bioinformatics Lab](https://bakerlab.mclean.harvard.edu), my dissertation will examine the contribution of eye gaze, emotional reactivity, and neural activity within a naturalistic paradigm to more holistically characterize aphasic language processing.
+In collaboration with Dr. [Einat Liebenthal](https://www.mcleanhospital.org/profile/einat-liebenthal) and [The Functional Neuroimaging & Bioinformatics Lab](https://bakerlab.mclean.harvard.edu), my dissertation will examine the contribution of eye gaze, emotional reactivity, and neural activity within a movie-watching paradigm to more holistically characterize aphasic language processing.
 
 Prior to BU, I was a speech-language pathologist specializing in traumatic brain injury and stroke neurorehabilitation. I received my M.S. in Communication Disorders from [SUNY New Paltz](https://www.newpaltz.edu/commdis/) and my B.A. in Speech and Hearing Science from the [University at Buffalo](https://arts-sciences.buffalo.edu/cds.html).
 
