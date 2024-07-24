@@ -6,7 +6,7 @@ layout: default
 
 I am a Ph.D. candidate in [Speech, Language & Hearing Sciences](https://www.bu.edu/sargent/academics/departments-programs/speech-language-hearing-sciences/phd-in-slhs/) at Boston University (BU). Here, I work with the support and mentorship of Dr. [Swathi Kiran](https://www.bu.edu/sargent/profile/swathi-kiran-ph-d-ccc-slp/) in the [Center for Brain Recovery](https://www.bu.edu/cbr/).
 
-My primary interests involve applying computational and statistical tools to answer clinical questions regarding bi/multilingual aphasia and to develop a more naturalistic understanding of aphasia.
+My research focuses on developing a computational approach to aphasiology, applying advanced data analytic techniques to bridge controlled laboratory studies and real-world language use. I have a particular interest in applying these techniques to study bilingual aphasia, as well as in leveraging the rich data inherent to naturalistic paradigms to better understand language processing in aphasia.
 
 In collaboration with Dr. [Einat Liebenthal](https://www.mcleanhospital.org/profile/einat-liebenthal) and [The Functional Neuroimaging & Bioinformatics Lab](https://bakerlab.mclean.harvard.edu), my dissertation will examine the contribution of eye gaze, emotional reactivity, and neural activity within a movie-watching paradigm to more holistically characterize aphasic language processing.
 
