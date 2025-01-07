@@ -6,7 +6,7 @@ layout: default
 
 I am a Ph.D. candidate in [Speech, Language & Hearing Sciences](https://www.bu.edu/sargent/academics/departments-programs/speech-language-hearing-sciences/phd-in-slhs/) at Boston University (BU). Here, I work with the support and mentorship of Dr. [Swathi Kiran](https://www.bu.edu/sargent/profile/swathi-kiran-ph-d-ccc-slp/) in the [Center for Brain Recovery](https://www.bu.edu/cbr/). I am co-mentored by Dr. [Einat Liebenthal](https://www.mcleanhospital.org/profile/einat-liebenthal) in [The Functional Neuroimaging & Bioinformatics Lab](https://bakerlab.mclean.harvard.edu) at McLean Hospital.
 
-How do we connect what we see in the laboratory to how people actually communicate in everyday life? I take two approaches to addressing this question. 
+In studying communication disorders, how do we connect what we see in the laboratory to how people actually communicate in everyday life? I take two approaches to addressing this question. 
 
 First, I investigate how bilingual individuals are affected by and recover from aphasia, focusing on Hispanic/Latino populations. In parallel work, I explore how people with aphasia process the demands of real-world communication. Using movie-watching paradigms, I track how individuals integrate language, emotion, and visual information in naturalistic contexts. Across both foci, I use advanced computational techniques to find meaningful patterns in complex data.
 
