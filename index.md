@@ -8,7 +8,7 @@ I am a Ph.D. candidate in [Speech, Language & Hearing Sciences](https://www.bu.e
 
 I study language dysfunction and recovery after stroke, particularly in people who navigate the world in multiple languages. Using naturalistic paradigms, I explore how language, emotional reactivity, and visual attention work together – or do not – after stroke. This approach reveals heterogeneous patterns in how people with aphasia engage with multimodal information, suggesting we need complementary ways of thinking about assessment and recovery. Further, as a bilingual researcher, I work to ensure that our theories of language and recovery reflect the diversity of human experience.
 
-My work addresses these questions through multiple lenses and with a broad toolkit (e.g., behavior, eye-tracking, fMRI; single-case studies, microdata; machine learning, NLP).
+My line of research addresses these questions through multiple lenses and with a broad toolkit (e.g., behavior, eye-tracking, fMRI; single-case studies, microdata; machine learning, NLP).
 
 Prior to BU, I was a speech-language pathologist specializing in traumatic brain injury and stroke neurorehabilitation. I received my M.S. in Communication Disorders from [SUNY New Paltz](https://www.newpaltz.edu/commdis/) and my B.A. in Speech and Hearing Science from the [University at Buffalo](https://arts-sciences.buffalo.edu/cds.html).
 
