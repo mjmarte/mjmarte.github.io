@@ -10,7 +10,7 @@ I study language dysfunction and recovery after stroke, including in people who 
 
 My line of research addresses these questions through multiple lenses and with a broad toolkit (e.g., behavior, eye-tracking, fMRI; single-case studies, microdata; machine learning, NLP).
 
-Previously, I was a speech-language pathologist specializing in traumatic brain injury and stroke neurorehabilitation at the [Northeast Center for Brain Injury and Rehabilition]([url](https://www.northeastcenter.com)). I received my M.S. in Communication Disorders from [SUNY New Paltz](https://www.newpaltz.edu/commdis/) and my B.A. in Speech and Hearing Science from the [University at Buffalo](https://arts-sciences.buffalo.edu/cds.html).
+Previously, I was a speech-language pathologist specializing in traumatic brain injury and stroke neurorehabilitation at the [Northeast Center for Brain Injury and Rehabilitation]([url](https://www.northeastcenter.com)). I received my M.S. in Communication Disorders from [SUNY New Paltz](https://www.newpaltz.edu/commdis/) and my B.A. in Speech and Hearing Science from the [University at Buffalo](https://arts-sciences.buffalo.edu/cds.html).
 
 When I am not working, I am spending time with my family, shooting hoops, and [reading](https://oku.club/user/mjm). 
 
