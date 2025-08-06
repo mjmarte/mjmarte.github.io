@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="image.png">
 
-I am a Ph.D. candidate in [Speech, Language & Hearing Sciences](https://www.bu.edu/sargent/academics/departments-programs/speech-language-hearing-sciences/phd-in-slhs/) at Boston University (BU) and an incoming Postdoctoral Research Fellow in the [Department of Neurology](https://www.hopkinsmedicine.org/neurology-neurosurgery) at the Johns Hopkins University School of Medicine.
+I am a Ph.D. candidate in [Speech, Language & Hearing Sciences](https://www.bu.edu/sargent/academics/departments-programs/speech-language-hearing-sciences/phd-in-slhs/) at Boston University (BU) and an incoming Postdoctoral Research Fellow in the [Department of Neurology](https://www.hopkinsmedicine.org/neurology-neurosurgery) at Johns Hopkins University School of Medicine.
 
 At BU, I work with the support and mentorship of Dr. [Swathi Kiran](https://www.bu.edu/sargent/profile/swathi-kiran-ph-d-ccc-slp/) in the [Center for Brain Recovery](https://www.bu.edu/cbr/). I am co-mentored by Dr. [Einat Liebenthal](https://www.mcleanhospital.org/profile/einat-liebenthal) in [The Functional Neuroimaging & Bioinformatics Lab](https://bakerlab.mclean.harvard.edu) at McLean Hospital. At Johns Hopkins, I will be joining the [SCORE (Stroke Cognitive Outcomes & REcovery) Lab](https://score.jhmi.edu/index.html) with Dr. [Argye E. Hillis](https://score.jhmi.edu/director.html).
 
