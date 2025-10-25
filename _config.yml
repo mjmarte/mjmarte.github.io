@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://www.bu.edu/cbr/"
-footer_text: "Center for Brain Recovery"
+footer_url: "https://score.jhmi.edu"
+footer_text: "SCORE Lab"
 
 sass:
     style: compressed
