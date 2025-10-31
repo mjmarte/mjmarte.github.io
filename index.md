@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="image.png">
 
-I am an incoming Postdoctoral Research Fellow in the [Department of Neurology](https://www.hopkinsmedicine.org/neurology-neurosurgery) at Johns Hopkins University School of Medicine, working with Dr. [Argye E. Hillis](https://score.jhmi.edu/director.html) in the [SCORE (Stroke Cognitive Outcomes & REcovery) Lab](https://score.jhmi.edu/index.html). My goal will be to architect multimodal predictive models that determine when and for whom targeted interventions can most effect positive change in an individual's recovery trajectory.
+I am an incoming Postdoctoral Research Fellow in the [Department of Neurology](https://www.hopkinsmedicine.org/neurology-neurosurgery) at Johns Hopkins University School of Medicine, working with Dr. [Argye E. Hillis](https://score.jhmi.edu/director.html) in the [SCORE (Stroke Cognitive Outcomes & REcovery) Lab](https://score.jhmi.edu/index.html). My goal is to architect multimodal predictive models that determine when and for whom targeted interventions can most effect positive change in an individual's recovery trajectory.
 
 I recently completed my Ph.D. in [Speech, Language & Hearing Sciences](https://www.bu.edu/sargent/academics/departments-programs/speech-language-hearing-sciences/phd-in-slhs/) at Boston University, where I worked with Dr. [Swathi Kiran](https://www.bu.edu/sargent/profile/swathi-kiran-ph-d-ccc-slp/) in the [Center for Brain Recovery](https://www.bu.edu/cbr/) and Dr. [Einat Liebenthal](https://www.mcleanhospital.org/profile/einat-liebenthal) in the [Institute for Technology in Psychiatry](https://bakerlab.mclean.harvard.edu/institute-for-technology-in-psychiatry/) at McLean Hospital.
 
