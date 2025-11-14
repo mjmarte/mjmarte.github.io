@@ -16,7 +16,7 @@ Before my doctoral training, I was a speech-language pathologist specializing in
 
 When I’m not working, I’m spending time with my family, shooting hoops, and [reading](https://oku.club/user/mjm).
 
-Let's connect!
-* [mjmarte@bu.edu](mailto:mjmarte@bu.edu)
+If you're interested in ideating and/or working together:
+* [mmarte1@jh.edu](mailto:mmarte1@jh.edu)
 * [@manueljmarte](https://twitter.com/manueljmarte)
 * [@mjm.bsky.social](https://bsky.app/profile/mjm.bsky.social)
