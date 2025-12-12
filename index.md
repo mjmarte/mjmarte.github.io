@@ -10,7 +10,7 @@ I completed my Ph.D. in [Speech, Language & Hearing Sciences](https://www.bu.edu
 
 Broadly, my research focuses on language dysfunction and rehabilitation after neurological damage. My dissertation work involved the development of a naturalistic paradigm for assessment in post-stroke aphasia, investigating how language, emotion, and visual attention interact in contexts that better reflect real-world demands. As a multilingual researcher, I also examine how theories of language disorders can better reflect the variety of human linguistic experience.
 
-Methodologically, my work spans behavioral, physiological, and neuroimaging measures, complementeed by computational approaches, such as machine learning, natural language processing, and large language models.
+Methodologically, my work spans behavioral, physiological, and neuroimaging measures, complemented by computational approaches, such as machine learning, natural language processing, and large language models.
 
 Before my doctoral training, I was a speech-language pathologist specializing in traumatic brain injury and stroke neurorehabilitation at the [Northeast Center for Brain Injury and Rehabilitation](https://www.northeastcenter.com). I earned my M.S. in Communication Disorders from [SUNY New Paltz](https://www.newpaltz.edu/commdis/) and my B.A. in Speech and Hearing Science from the [University at Buffalo](https://arts-sciences.buffalo.edu/cds.html).
 
