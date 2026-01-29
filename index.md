@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="image.png">
 
-Few human capacities are as defining as language, and when neurological injury or disease impairs it, few losses are more devastating. My research seeks to deepen our understanding of these impairments and to improve their assessment, prognosis, and treatment.
+Few human capacities are as defining as language, so when neurological injury or disease impairs it, few losses are more devastating. My research seeks to advance our understanding of these impairments and to improve their assessment, prognosis, and treatment.
 
 Currently, I am a Postdoctoral Research Fellow with Dr. [Argye E. Hillis](https://score.jhmi.edu/director.html) in the [SCORE (Stroke Cognitive Outcomes & REcovery) Lab](https://score.jhmi.edu/index.html) in the [Department of Neurology](https://www.hopkinsmedicine.org/neurology-neurosurgery) at Johns Hopkins University. My work applies machine learning and large language models to questions about how recovery unfolds and how connected speech can be analyzed both rigorously and at scale. While my focus now is post-stroke aphasia, I am broadly interested in how language breaks down across conditions, including neurodegenerative disease.
 
