@@ -1,11 +1,10 @@
 locale: "en-US"
 title: "Manuel Jose Marte"
+description: "Manuel Jose Marte – Postdoctoral Research Fellow, Johns Hopkins University"
 url: https://mjmarte.github.io
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
-
-tracking_id: #
 
 footer: yes
 footer_url: "https://score.jhmi.edu"
@@ -16,7 +15,7 @@ sass:
     sass_dir: _sass
 
 nav:
-# - name: "Research"
-#   link: "research"
+ - name: "Research"
+   link: "research"
  - name: "Curriculum Vitae"
    link: "cv.pdf"

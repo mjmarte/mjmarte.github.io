@@ -2,7 +2,10 @@
 layout: default
 ---
 
-<img class="profile-picture" src="image.png">
+<div class="profile-hover">
+  <img class="profile-picture" src="profile.jpg" alt="Manuel Jose Marte">
+  <img class="profile-gif" src="eyes-moving.gif" alt="Manuel Jose Marte animated">
+</div>
 
 Few human capacities are as defining as language, so when neurological injury or disease impairs it, few losses are more devastating. My research seeks to advance our understanding of these impairments and to improve their assessment, prognosis, and treatment.
 

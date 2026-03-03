@@ -1,5 +1,15 @@
 @import "vars";
 
+h1, h2, h3, h4, h5, h6 {
+    color: #272727;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+h2 {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    padding-bottom: 0.3em;
+}
+
 .content {
     a:hover {
         text-decoration: underline;
@@ -36,21 +46,34 @@
         padding: 2px 8px 2px 8px;
         font-style: italic;
     }
-    .profile-picture {
+    .profile-hover {
         height: $image-size;
         width: $image-size;
         position: relative;
         margin: -10px 0 0 15px;
         float: right;
         border-radius: 50%;
-        p & {
-            padding: 0;
-            margin: 0;
+        overflow: hidden;
+        cursor: pointer;
+
+        img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 50%;
+            transition: opacity 0.3s ease;
         }
-        @media (max-width: $small-width) {
-            img {
-                margin-top: -5px;
-            }
+        .profile-gif {
+            position: absolute;
+            top: 0;
+            left: 0;
+            opacity: 0;
+        }
+        &:hover .profile-gif {
+            opacity: 1;
+        }
+        &:hover .profile-picture {
+            opacity: 0;
         }
     }
     img {
