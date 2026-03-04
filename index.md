@@ -51,6 +51,11 @@ Prior to my doctoral training, I worked as a speech-language pathologist special
 When I’m not working, I’m spending time with my family, shooting hoops, and [reading](https://oku.club/user/mjm).
 
 If you're interested in working together, please reach out:
-* [mmarte1@jh.edu](mailto:mmarte1@jh.edu)
-* [@manueljmarte](https://twitter.com/manueljmarte)
-* [@mjm.bsky.social](https://bsky.app/profile/mjm.bsky.social)
+
+<div class="social-icons">
+  <a href="mailto:mmarte1@jh.edu" title="Email"><i class="fas fa-envelope"></i></a>
+  <a href="https://orcid.org/0000-0002-1837-601X" title="ORCID"><i class="ai ai-orcid"></i></a>
+  <a href="https://scholar.google.com/citations?user=R3M1K-MAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+  <a href="https://bsky.app/profile/mjm.bsky.social" title="Bluesky"><i class="fab fa-bluesky"></i></a>
+  <a href="https://twitter.com/manueljmarte" title="Twitter / X"><i class="fab fa-x-twitter"></i></a>
+</div>
