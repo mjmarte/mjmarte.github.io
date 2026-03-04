@@ -46,12 +46,22 @@ h2 {
         padding: 2px 8px 2px 8px;
         font-style: italic;
     }
+    .profile-card {
+        float: right;
+        margin: -10px 0 10px 20px;
+        text-align: center;
+        width: $image-size;
+    }
+    .profile-cta {
+        font-size: 0.7em;
+        color: #555;
+        margin: 6px 0 4px;
+        line-height: 1.3;
+    }
     .profile-hover {
         height: $image-size;
         width: $image-size;
         position: relative;
-        margin: -10px 0 0 15px;
-        float: right;
         border-radius: 50%;
         overflow: hidden;
         cursor: pointer;
@@ -120,9 +130,10 @@ h2 {
     }
     .social-icons {
         display: flex;
-        gap: 0.75em;
-        margin-top: 0.5em;
-        font-size: 1.5em;
+        justify-content: center;
+        gap: 0.5em;
+        margin-top: 0;
+        font-size: 1.1em;
         a {
             color: $accent;
             transition: opacity 0.2s ease;

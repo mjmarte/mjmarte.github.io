@@ -2,9 +2,19 @@
 layout: default
 ---
 
-<div class="profile-hover" id="profile-hover">
-  <img class="profile-picture" src="profile.jpg" alt="Manuel Jose Marte">
-  <img class="profile-gif" src="eyes-moving.gif" alt="Manuel Jose Marte animated">
+<div class="profile-card">
+  <div class="profile-hover" id="profile-hover">
+    <img class="profile-picture" src="profile.jpg" alt="Manuel Jose Marte">
+    <img class="profile-gif" src="eyes-moving.gif" alt="Manuel Jose Marte animated">
+  </div>
+  <p class="profile-cta">If you're interested in working together, please reach out!</p>
+  <div class="social-icons">
+    <a href="mailto:mmarte1@jh.edu" title="Email"><i class="fas fa-envelope"></i></a>
+    <a href="https://orcid.org/0000-0002-1837-601X" title="ORCID"><i class="ai ai-orcid"></i></a>
+    <a href="https://scholar.google.com/citations?user=R3M1K-MAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    <a href="https://bsky.app/profile/mjm.bsky.social" title="Bluesky"><i class="fab fa-bluesky"></i></a>
+    <a href="https://twitter.com/manueljmarte" title="Twitter / X"><i class="fab fa-x-twitter"></i></a>
+  </div>
 </div>
 
 <script>
@@ -38,24 +48,10 @@ layout: default
 })();
 </script>
 
-Few human capacities are as defining as language, so when neurological injury or disease impairs it, few losses are more devastating. My research seeks to advance our understanding of these impairments and to improve their assessment, prognosis, and treatment.
+Few human capacities are as defining as language, and few losses are more devastating than when neurological injury impairs it. My research aims to advance our understanding of language disorders and improve their assessment, prognosis, and treatment.
 
-Currently, I am a Postdoctoral Research Fellow with Dr. [Argye E. Hillis](https://score.jhmi.edu/director.html) in the [SCORE (Stroke Cognitive Outcomes & REcovery) Lab](https://score.jhmi.edu/index.html) in the [Department of Neurology](https://www.hopkinsmedicine.org/neurology-neurosurgery) at Johns Hopkins University. My work applies machine learning and large language models to questions about how recovery unfolds and how connected speech can be analyzed both rigorously and at scale.
+I am a Postdoctoral Research Fellow with Dr. [Argye E. Hillis](https://score.jhmi.edu/director.html) in the [SCORE Lab](https://score.jhmi.edu/index.html) ([Department of Neurology](https://www.hopkinsmedicine.org/neurology-neurosurgery), Johns Hopkins University), where I apply machine learning and large language models to study post-stroke recovery and to analyze connected speech rigorously and at scale. As a multilingual researcher, I am also interested in how our theories of language disorders can better reflect the diversity of human linguistic experience.
 
-As a multilingual researcher, I am also drawn to questions about how our theories of language disorders can better reflect the variety of human linguistic experience.
+I completed my Ph.D. in [Speech, Language & Hearing Sciences](https://www.bu.edu/sargent/academics/departments-programs/speech-language-hearing-sciences/phd-in-slhs/) at Boston University, working with Dr. [Swathi Kiran](https://www.bu.edu/sargent/profile/swathi-kiran-ph-d-ccc-slp/) ([Center for Brain Recovery](https://www.bu.edu/cbr/)) and Dr. [Einat Liebenthal](https://www.mcleanhospital.org/profile/einat-liebenthal) ([Institute for Technology in Psychiatry](https://bakerlab.mclean.harvard.edu/institute-for-technology-in-psychiatry/), McLean Hospital). My dissertation developed a naturalistic paradigm for aphasia assessment, investigating how language, emotion, and visual attention interact in ecologically valid contexts. Previously, I worked as a speech-language pathologist specializing in TBI and stroke neurorehabilitation at the [Northeast Center for Brain Injury and Rehabilitation](https://www.northeastcenter.com). I hold an M.S. from [SUNY New Paltz](https://www.newpaltz.edu/commdis/) and a B.A. from the [University at Buffalo](https://arts-sciences.buffalo.edu/cds.html).
 
-I completed my Ph.D. in [Speech, Language & Hearing Sciences](https://www.bu.edu/sargent/academics/departments-programs/speech-language-hearing-sciences/phd-in-slhs/) at Boston University, working with Dr. [Swathi Kiran](https://www.bu.edu/sargent/profile/swathi-kiran-ph-d-ccc-slp/) at the [Center for Brain Recovery](https://www.bu.edu/cbr/) and Dr. [Einat Liebenthal](https://www.mcleanhospital.org/profile/einat-liebenthal) in the [Institute for Technology in Psychiatry](https://bakerlab.mclean.harvard.edu/institute-for-technology-in-psychiatry/) at McLean Hospital. My dissertation developed a naturalistic paradigm for aphasia assessment, investigating how language, emotion, and visual attention interact in contexts that better reflect real-world demands.
-
-Prior to my doctoral training, I worked as a speech-language pathologist specializing in traumatic brain injury and stroke neurorehabilitation at the [Northeast Center for Brain Injury and Rehabilitation](https://www.northeastcenter.com). I earned my M.S. in Communication Disorders from [SUNY New Paltz](https://www.newpaltz.edu/commdis/) and my B.A. in Speech and Hearing Science from the [University at Buffalo](https://arts-sciences.buffalo.edu/cds.html).
-
-When I’m not working, I’m spending time with my family, shooting hoops, and [reading](https://oku.club/user/mjm).
-
-If you're interested in working together, please reach out:
-
-<div class="social-icons">
-  <a href="mailto:mmarte1@jh.edu" title="Email"><i class="fas fa-envelope"></i></a>
-  <a href="https://orcid.org/0000-0002-1837-601X" title="ORCID"><i class="ai ai-orcid"></i></a>
-  <a href="https://scholar.google.com/citations?user=R3M1K-MAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-  <a href="https://bsky.app/profile/mjm.bsky.social" title="Bluesky"><i class="fab fa-bluesky"></i></a>
-  <a href="https://twitter.com/manueljmarte" title="Twitter / X"><i class="fab fa-x-twitter"></i></a>
-</div>
+When I'm not working, I'm spending time with my family, shooting hoops, and [reading](https://oku.club/user/mjm).
