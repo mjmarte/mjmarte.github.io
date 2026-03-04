@@ -12,8 +12,28 @@ layout: default
   var gifs = ["eyes-moving.gif", "brain.gif"];
   var el = document.getElementById("profile-hover");
   var gifImg = el.querySelector(".profile-gif");
+  var idx = 0;
+  var timer = null;
+
+  function showNext() {
+    gifImg.style.opacity = 0;
+    setTimeout(function() {
+      idx = (idx + 1) % gifs.length;
+      gifImg.src = gifs[idx];
+      gifImg.style.opacity = 1;
+    }, 300);
+  }
+
   el.addEventListener("mouseenter", function() {
-    gifImg.src = gifs[Math.floor(Math.random() * gifs.length)];
+    gifImg.src = gifs[idx];
+    gifImg.style.opacity = 1;
+    timer = setInterval(showNext, 2000);
+  });
+
+  el.addEventListener("mouseleave", function() {
+    clearInterval(timer);
+    timer = null;
+    gifImg.style.opacity = 0;
   });
 })();
 </script>
