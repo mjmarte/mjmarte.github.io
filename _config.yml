@@ -15,5 +15,7 @@ sass:
     sass_dir: _sass
 
 nav:
+ - name: "Publications"
+   link: "publications"
  - name: "Curriculum Vitae"
    link: "cv.pdf"
