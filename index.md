@@ -27,28 +27,38 @@ layout: default
   var gifImg = el.querySelector(".profile-gif");
   var timer = null;
   var hovering = false;
+  var rawBlobs = {};
+  var currentUrl = null;
+
+  // Preload GIFs into memory once
+  gifs.forEach(function(g) {
+    fetch(g.src)
+      .then(function(r) { return r.blob(); })
+      .then(function(b) { rawBlobs[g.src] = b; });
+  });
 
   function pickRandom() {
     return Math.floor(Math.random() * gifs.length);
   }
 
-  function cacheBust(src) {
-    return src + "?t=" + Date.now();
+  function freshUrl(src) {
+    // Creating a new object URL from the stored blob restarts the GIF
+    if (currentUrl) URL.revokeObjectURL(currentUrl);
+    currentUrl = URL.createObjectURL(rawBlobs[src]);
+    return currentUrl;
   }
 
   function showGif(index) {
     var g = gifs[index];
-    gifImg.style.opacity = 0;
-    setTimeout(function() {
-      gifImg.src = cacheBust(g.src);
-      gifImg.style.opacity = 1;
-      timer = setTimeout(function() {
-        if (hovering) {
-          var next = (index + 1) % gifs.length;
-          showGif(next);
-        }
-      }, g.duration);
-    }, gifImg.src ? 300 : 0);
+    if (!rawBlobs[g.src]) return; // not yet preloaded
+    gifImg.src = freshUrl(g.src);
+    gifImg.style.opacity = 1;
+    timer = setTimeout(function() {
+      if (!hovering) return;
+      var next = (index + 1) % gifs.length;
+      gifImg.style.opacity = 0;
+      setTimeout(function() { showGif(next); }, 300);
+    }, g.duration);
   }
 
   el.addEventListener("mouseenter", function() {
