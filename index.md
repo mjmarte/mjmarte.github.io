@@ -27,38 +27,36 @@ layout: default
   var gifImg = el.querySelector(".profile-gif");
   var timer = null;
   var hovering = false;
-  var currentIndex = -1;
+  var lastIndex = -1;
 
-  // Preload all GIFs so transitions are instant
-  gifs.forEach(function(g) {
+  // Preload all GIFs into browser cache
+  var preloaded = gifs.map(function(g) {
     var img = new Image();
     img.src = g.src;
+    return img;
   });
 
-  function pickRandom() {
+  function nextIndex() {
+    // Always alternate: never show the same GIF twice in a row
     if (gifs.length <= 1) return 0;
-    var idx;
-    do { idx = Math.floor(Math.random() * gifs.length); } while (idx === currentIndex);
-    return idx;
+    return (lastIndex + 1) % gifs.length;
   }
 
   function showGif(index) {
-    currentIndex = index;
+    lastIndex = index;
     var g = gifs[index];
-    // Reset the GIF by reloading with a cache-bust, but image is already cached
-    gifImg.src = g.src + "?t=" + Date.now();
+    gifImg.src = g.src;
     gifImg.style.opacity = 1;
     timer = setTimeout(function() {
       if (hovering) {
-        var next = (index + 1) % gifs.length;
-        showGif(next);
+        showGif(nextIndex());
       }
     }, g.duration);
   }
 
   el.addEventListener("mouseenter", function() {
     hovering = true;
-    showGif(pickRandom());
+    showGif(nextIndex());
   });
 
   el.addEventListener("mouseleave", function() {
@@ -66,7 +64,6 @@ layout: default
     clearTimeout(timer);
     timer = null;
     gifImg.style.opacity = 0;
-    currentIndex = -1;
   });
 })();
 </script>
