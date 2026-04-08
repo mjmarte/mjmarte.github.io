@@ -71,9 +71,9 @@ layout: default
 })();
 </script>
 
-Post-stroke language disorders are among the most common and consequential consequences of stroke, yet the standard tools used to assess and predict recovery remain limited. My research applies computational methods to the study of aphasia to improve its assessment, treatment, and prognosis.
+Post-stroke language disorders are among the most common and consequential sequelae of stroke, yet the standard tools used to assess and predict recovery remain limited. My research applies computational methods to the study of aphasia to improve its assessment, treatment, and prognosis.
 
-I currently am a Postdoctoral Research Fellow with Dr. [Argye E. Hillis](https://score.jhmi.edu/director.html) in the [SCORE Lab](https://score.jhmi.edu/index.html) ([Department of Neurology](https://www.hopkinsmedicine.org/neurology-neurosurgery), Johns Hopkins University) and a T32 NRSA Fellow at [Kennedy Krieger Institute](https://www.kennedykrieger.org). Here, I apply natural language processing, machine learning, and neuroimaging to study post-stroke language at multiple linguistic levels and across the trajectory of recovery.
+I am a Postdoctoral Research Fellow with Dr. [Argye E. Hillis](https://score.jhmi.edu/director.html) in the [SCORE Lab](https://score.jhmi.edu/index.html) ([Department of Neurology](https://www.hopkinsmedicine.org/neurology-neurosurgery), Johns Hopkins University) and a T32 NRSA Fellow at [Kennedy Krieger Institute](https://www.kennedykrieger.org). Here, I apply natural language processing, machine learning, and neuroimaging to study post-stroke language at multiple linguistic levels and across the trajectory of recovery.
 
 I completed my Ph.D. in [Speech, Language & Hearing Sciences](https://www.bu.edu/sargent/academics/departments-programs/speech-language-hearing-sciences/phd-in-slhs/), working with Dr. [Swathi Kiran](https://www.bu.edu/sargent/profile/swathi-kiran-ph-d-ccc-slp/) ([Center for Brain Recovery](https://www.bu.edu/cbr/), Boston University) and Dr. [Einat Liebenthal](https://www.mcleanhospital.org/profile/einat-liebenthal) ([Institute for Technology in Psychiatry](https://bakerlab.mclean.harvard.edu/institute-for-technology-in-psychiatry/), McLean Hospital, Harvard Medical School). 
 
