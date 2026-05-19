@@ -6,6 +6,11 @@ title: Publications
 ## Peer-Reviewed Publications
 
 <ol class="pub-list" reversed>
+<li value="12">
+Kiran, S., Carpenter, E., Grasemann, U., Scimeca, M., <strong>Marte, M. J.</strong>, Russell-Meill, M., Peñaloza, C., Tripodis, Y., & Miikkulainen, R. (2026). <a href="https://doi.org/10.1038/s41746-026-02583-9">Predicting bilingual aphasia treatment outcomes using digital twins: A double-blind randomized controlled trial.</a> <em>npj Digital Medicine</em>.
+<a href="https://doi.org/10.1038/s41746-026-02583-9">doi</a>
+</li>
+
 <li value="11">
 Chen, X.J., <strong>Marte, M. J.</strong>, Kiran, S., & Blanco-Elorrieta, E. (2026). <a href="https://www.tandfonline.com/doi/full/10.1080/02687038.2026.2624735">Evidence for an integrated bilingual language system from discourse tasks in aphasia.</a> <em>Aphasiology</em>.
 <a href="https://doi.org/10.1080/02687038.2026.2624735">doi</a>
@@ -33,7 +38,7 @@ Peñaloza, C., <strong>Marte, M. J.</strong>, Billot, A., & Kiran, S. (2025). <a
 
 <li value="6">
 <strong>Marte, M. J.</strong>, Carpenter, E., Scimeca, M., Russell-Meill, M., Peñaloza, C., Grasemann, U., Miikkulainen, R., & Kiran, S. (2025). <a href="manuscripts/marte-et-al-2025-machine-learning-predictions-of-recovery-in-bilingual-poststroke-aphasia-aligning-insights-with.pdf">Machine learning predictions of recovery in bilingual post-stroke aphasia: Aligning insights with clinical evidence.</a> <em>Stroke</em>.
-<a href="https://doi.org/10.1161/STROKEAHA.124.04786">doi</a>
+<a href="https://doi.org/10.1161/STROKEAHA.124.047867">doi</a>
 &#8239;<a href="manuscripts/marte-et-al-2025-machine-learning-predictions-of-recovery-in-bilingual-poststroke-aphasia-aligning-insights-with.pdf">pdf</a>
 </li>
 
@@ -44,12 +49,12 @@ Peñaloza, C., <strong>Marte, M. J.</strong>, Billot, A., & Kiran, S. (2025). <a
 </li>
 
 <li value="4">
-Cordella, C., <strong>Marte, M. J.</strong>, Liu, H., & Kiran, S. (2024). <a href="https://pubs.asha.org/doi/10.1044/2024_PERSP-24-00037">An introduction to machine learning for speech-language pathologists: Concepts, terminology, and emerging applications.</a> <em>Perspectives of the ASHA Special Interest Groups: Sig 2 Neurogenic Communication Disorders</em>.
+Cordella, C., <strong>Marte, M. J.</strong>, Liu, H., & Kiran, S. (2025). <a href="https://pubs.asha.org/doi/10.1044/2024_PERSP-24-00037">An introduction to machine learning for speech-language pathologists: Concepts, terminology, and emerging applications.</a> <em>Perspectives of the ASHA Special Interest Groups: Sig 2 Neurogenic Communication Disorders</em>.
 <a href="https://doi.org/10.1044/2024_PERSP-24-00037">doi</a>
 </li>
 
 <li value="3">
-<strong>Marte, M. J.</strong>, Addesso, D., & Kiran, S. (2024). <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11000792/pdf/AJSLP-33-248.pdf">Association Between Social Determinants of Health and Communication Difficulties in Poststroke U.S. Hispanic and Non-Hispanic White Populations.</a> <em>American Journal of Speech-Language Pathology</em>.
+<strong>Marte, M. J.</strong>, Addesso, D.<sup>*</sup>, & Kiran, S. (2024). <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11000792/pdf/AJSLP-33-248.pdf">Association Between Social Determinants of Health and Communication Difficulties in Poststroke U.S. Hispanic and Non-Hispanic White Populations.</a> <em>American Journal of Speech-Language Pathology</em>.
 <a href="https://doi.org/10.1044/2023_AJSLP-23-00232">doi</a>
 </li>
 
@@ -64,27 +69,38 @@ Cordella, C., <strong>Marte, M. J.</strong>, Liu, H., & Kiran, S. (2024). <a hre
 </li>
 </ol>
 
-<p class="pub-note"><sup>*</sup>shared first authorship</p>
+<p class="pub-note"><sup>*</sup>shared first authorship; mentee</p>
 
-## Working Papers
+## Under Review
 
-<ol class="pub-list" start="12">
+<ol class="pub-list">
 <li>
-Kiran, S., Carpenter, E., Grasemann, U., Scimeca, M., <strong>Marte, M. J.</strong>, Russell-Meill, M., Peñaloza, C., Miikkulainen, R., & Tripodis, Y. (<em>in revision</em>). Using Digital Twins to Predict Language Treatment Outcomes in Spanish-English Bilingual Aphasia: A Double-Blind Randomized Controlled Trial.
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5432082">preprint</a>
-</li>
-
-<li>
-<strong>Marte, M. J.</strong>, Gillis, B., Wei, X., Galvin, C., Rigolo, L., Tie, Y., Kiran, S., & Liebenthal, E. (<em>under review</em>). Real-time emotional valence judgements during movie-watching reveal impaired language-emotion coupling in aphasia.
+<strong>Marte, M. J.</strong>, Gillis, B., Wei, X., Galvin, C., Rigolo, L., Tie, Y., Kiran, S., & Liebenthal, E. (<em>under review, Nature Communications</em>). Real-time emotional valence judgements during movie-watching reveal impaired language-emotion coupling in aphasia.
 <a href="https://assets-eu.researchsquare.com/files/rs-8477032/v1_covered_5808bd6c-794c-4efc-9b1d-ef05e7826fa2.pdf?c=1768812340">preprint</a>
 </li>
 
 <li>
-<strong>Marte, M. J.</strong>, Gillis, B., Tie, Y., Kiran, S., & Liebenthal, E. (<em>in preparation</em>). Divergent visual attention strategies in aphasia and mild cognitive impairment: Evidence from naturalistic movie-viewing.
+<strong>Marte, M. J.</strong>, Chaves, M.<sup>*</sup>, Kelly, L., Diaz-Carr, I., Neal, V., Stockbridge, M. D., & Hillis, A. E. (<em>under review, Brain Communications</em>). Acute-phase machine learning prediction of 12-month aphasia and discourse recovery.
+</li>
+</ol>
+
+## In Preparation
+
+<ol class="pub-list">
+<li>
+<strong>Marte, M. J.</strong>, Chaves, M.<sup>*</sup>, Kelly, L., Diaz-Carr, I., Neal, V., Stockbridge, M. D., & Hillis, A. E. (<em>in preparation</em>). Residual language deficits in WAB-recovered patients: prevalence and correlates at 12 months after left-hemisphere stroke.
 </li>
 
 <li>
-<strong>Marte, M. J.</strong>, Lee, S., Wang, S., Goldin, K., Girard, J., Varkanitsa, M., Tie, Y., Kiran, S., & Liebenthal, E. (<em>in preparation</em>). Automated multimodal main concept analysis for narrative discourse in aphasia.
+<strong>Marte, M. J.</strong>, Lee, S., Wang, S., Goldin, K.<sup>*</sup>, Girard, J., Varkanitsa, M., Tie, Y., Kiran, S., & Liebenthal, E. (<em>in preparation</em>). Automated multimodal main concept analysis for narrative discourse in aphasia.
+</li>
+
+<li>
+<strong>Marte, M. J.</strong>, Kelly, L., Chao, R., DeWalt, C., Gentile, M., & Stockbridge, M. D. (<em>in preparation</em>). Open-weight large language models match speech-language pathologists in scoring acute aphasia from picture description.
+</li>
+
+<li>
+<strong>Marte, M. J.</strong>, Gillis, B., Tie, Y., Kiran, S., & Liebenthal, E. (<em>in preparation</em>). Divergent visual attention strategies in aphasia and mild cognitive impairment: Evidence from naturalistic movie-viewing.
 </li>
 
 <li>
