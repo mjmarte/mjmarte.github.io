@@ -81,6 +81,7 @@ Cordella, C., <strong>Marte, M. J.</strong>, Liu, H., & Kiran, S. (2025). <a hre
 
 <li>
 <strong>Marte, M. J.</strong>, Chaves, M.<sup>*</sup>, Kelly, L., Diaz-Carr, I., Neal, V., Stockbridge, M. D., & Hillis, A. E. (<em>under review, Brain Communications</em>). Acute-phase machine learning prediction of 12-month aphasia and discourse recovery.
+<a href="https://www.medrxiv.org/content/10.64898/2026.05.13.26353123v1">preprint</a>
 </li>
 </ol>
 
