@@ -1,0 +1,53 @@
+name: Sync publications from CV
+
+on:
+  schedule:
+    # Runs at 14:00 UTC on the 1st of every other month (Jan, Mar, May, Jul, Sep, Nov).
+    - cron: "0 14 1 1,3,5,7,9,11 *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+  id-token: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install poppler-utils
+        run: sudo apt-get update && sudo apt-get install -y poppler-utils
+
+      - name: Extract CV text
+        run: pdftotext -layout cv.pdf cv.txt
+
+      - uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          prompt: |
+            You are updating `publications.md` to match the current CV.
+
+            Inputs:
+            - `cv.txt` — plain-text extraction of the latest CV (PUBLICATIONS section is the source of truth).
+            - `publications.md` — the Jekyll page rendered at /publications.
+
+            Tasks:
+            1. Reconcile each section ("Peer-Reviewed Publications", "Under Review",
+               "In Preparation") with the matching CV sections. Add new entries,
+               update venues/years/DOIs, and move items between sections when their
+               status changed (e.g. an "in revision" preprint that is now published).
+            2. Preserve the existing HTML structure: `<ol class="pub-list" reversed>`
+               with descending `value="N"` for the peer-reviewed list; plain `<ol>` for
+               the others. Keep `<strong>Marte, M. J.</strong>` bold, `<sup>*</sup>`
+               markers, the shared-first-authorship note, and existing PDF links in
+               `manuscripts/`.
+            3. When a CV entry has a DOI, link the title to `https://doi.org/<DOI>` and
+               add a trailing `<a href="https://doi.org/<DOI>">doi</a>` link. Do not
+               invent URLs that are not in the CV or the current page.
+            4. If nothing changed, exit without committing.
+
+            When changes are needed, commit them on a new branch and open a PR titled
+            "Sync publications from CV" summarizing the diff.
+          claude_args: "--allowed-tools Read,Edit,Write,Bash"
