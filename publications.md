@@ -89,7 +89,7 @@ Cordella, C., <strong>Marte, M. J.</strong>, Liu, H., & Kiran, S. (2025). <a hre
 
 <ol class="pub-list">
 <li>
-<strong>Marte, M. J.</strong>, Chaves, M.<sup>*</sup>, Kelly, L., Diaz-Carr, I., Neal, V., Stockbridge, M. D., & Hillis, A. E. (<em>in preparation</em>). Residual language deficits in WAB-recovered patients: prevalence and correlates at 12 months after left-hemisphere stroke.
+<strong>Marte, M. J.</strong>, Chaves, M.<sup>*</sup>, Kelly, L., Diaz-Carr, I., Neal, V., Stockbridge, M. D., & Hillis, A. E. (<em>in preparation</em>). Subtle language deficits in WAB-recovered patients at 12 months after left-hemisphere stroke.
 </li>
 
 <li>
@@ -97,14 +97,6 @@ Cordella, C., <strong>Marte, M. J.</strong>, Liu, H., & Kiran, S. (2025). <a hre
 </li>
 
 <li>
-<strong>Marte, M. J.</strong>, Kelly, L., Chao, R., DeWalt, C., Gentile, M., & Stockbridge, M. D. (<em>in preparation</em>). Open-weight large language models match speech-language pathologists in scoring acute aphasia from picture description.
-</li>
-
-<li>
 <strong>Marte, M. J.</strong>, Gillis, B., Tie, Y., Kiran, S., & Liebenthal, E. (<em>in preparation</em>). Divergent visual attention strategies in aphasia and mild cognitive impairment: Evidence from naturalistic movie-viewing.
-</li>
-
-<li>
-Carpenter, E., Scimeca, M., <strong>Marte, M. J.</strong>, Russell-Meill, M., Peñaloza, C., & Kiran, S. (<em>in preparation</em>). Moving away from parallel and differential language impairments in bilingual aphasia: A machine learning approach to the identification of bilingual aphasia clinical profiles.
 </li>
 </ol>
