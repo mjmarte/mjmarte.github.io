@@ -83,13 +83,17 @@ Cordella, C., <strong>Marte, M. J.</strong>, Liu, H., & Kiran, S. (2025). <a hre
 <strong>Marte, M. J.</strong>, Chaves, M.<sup>*</sup>, Kelly, L., Diaz-Carr, I., Neal, V., Stockbridge, M. D., & Hillis, A. E. (<em>under review, Brain Communications</em>). Acute-phase machine learning prediction of 12-month aphasia and discourse recovery.
 <a href="https://www.medrxiv.org/content/10.64898/2026.05.13.26353123v1">preprint</a>
 </li>
+
+<li>
+<strong>Marte, M. J.</strong>, Chaves, M.<sup>*</sup>, Kelly, L., Diaz-Carr, I., Neal, V., Stockbridge, M. D., & Hillis, A. E. (<em>under review, Aphasiology</em>). Subtle language deficits in WAB-recovered patients at 12 months after left-hemisphere stroke.
+</li>
 </ol>
 
 ## In Preparation
 
 <ol class="pub-list">
 <li>
-<strong>Marte, M. J.</strong>, Chaves, M.<sup>*</sup>, Kelly, L., Diaz-Carr, I., Neal, V., Stockbridge, M. D., & Hillis, A. E. (<em>in preparation</em>). Subtle language deficits in WAB-recovered patients at 12 months after left-hemisphere stroke.
+Liebenthal, E., Girard, J., <strong>Marte, M. J.</strong>, Wei, X., & Tie, Y. (<em>in preparation</em>). A naturalistic database for understanding individual differences in affective responses to movie clips.
 </li>
 
 <li>
