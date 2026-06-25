@@ -86,16 +86,17 @@ Cordella, C., <strong>Marte, M. J.</strong>, Liu, H., & Kiran, S. (2025). <a hre
 
 <li>
 <strong>Marte, M. J.</strong>, Chaves, M.<sup>*</sup>, Kelly, L., Diaz-Carr, I., Neal, V., Stockbridge, M. D., & Hillis, A. E. (<em>under review, Aphasiology</em>). Subtle language deficits in WAB-recovered patients at 12 months after left-hemisphere stroke.
+<a href="https://medrxiv.org/lookup/doi/10.64898/2026.06.19.26356022">preprint</a>
+</li>
+
+<li>
+Liebenthal, E., Girard, J., <strong>Marte, M. J.</strong>, Wei, X., & Tie, Y. (<em>under review, Scientific Data</em>). A naturalistic database for understanding individual differences in affective responses to movie clips.
 </li>
 </ol>
 
 ## In Preparation
 
 <ol class="pub-list">
-<li>
-Liebenthal, E., Girard, J., <strong>Marte, M. J.</strong>, Wei, X., & Tie, Y. (<em>in preparation</em>). A naturalistic database for understanding individual differences in affective responses to movie clips.
-</li>
-
 <li>
 <strong>Marte, M. J.</strong>, Lee, S., Wang, S., Goldin, K.<sup>*</sup>, Girard, J., Varkanitsa, M., Tie, Y., Kiran, S., & Liebenthal, E. (<em>in preparation</em>). Automated multimodal main concept analysis for narrative discourse in aphasia.
 </li>
