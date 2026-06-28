@@ -12,6 +12,10 @@ title: Research
 <div class="area">
 <h3>Computational prediction of recovery</h3>
 <p class="area-desc">I build machine learning models that integrate behavioral, demographic, and structural-imaging features to forecast the magnitude, language, and time course of aphasia recovery, from acute prognosis within days of stroke to treatment response in the chronic phase.</p>
+<figure class="area-fig">
+<img src="/images/research/prediction-acute-pipeline.png" alt="Acute-phase machine-learning pipeline" loading="lazy">
+<figcaption>Acute-phase machine-learning pipeline: hierarchical feature sets (clinical and demographic, lesion volume, anatomy, lesion-network disconnection), nested cross-validation, and evaluation with SHAP interpretation. From the acute-phase prediction study (in review).</figcaption>
+</figure>
 <div class="repwork">
 <span class="lbl">Representative work</span>
 <span class="cite"><a class="title" href="https://doi.org/10.1161/STROKEAHA.124.047867">Machine learning predictions of recovery in bilingual post-stroke aphasia: Aligning insights with clinical evidence</a> <span class="venue">Stroke, 2025</span></span><span class="sep">·</span>
@@ -25,6 +29,10 @@ title: Research
 <div class="area">
 <h3>Measurement beyond standardized assessment</h3>
 <p class="area-desc">Standardized batteries reduce language to a single severity dimension; I develop discourse-based and naturalistic, multimodal measures, e.g., connected-speech analysis, continuous affect rating and eye-tracking during movie-viewing, and LLM-augmented main-concept scoring, that index the linguistic, emotional, and attentional processes such testing renders invisible and that expose residual deficits in patients standard criteria classify as recovered.</p>
+<figure class="area-fig">
+<img src="/images/research/measurement-movie-valence.jpg" alt="Continuous valence ratings during naturalistic movie-viewing" loading="lazy">
+<figcaption>Continuous emotional valence ratings during naturalistic movie-viewing across film clips, in persons with aphasia (PWA) and healthy controls (HC). From the movie-watching study (in review).</figcaption>
+</figure>
 <div class="repwork">
 <span class="lbl">Representative work</span>
 <span class="cite"><a class="title" href="https://assets-eu.researchsquare.com/files/rs-8477032/v1_covered_5808bd6c-794c-4efc-9b1d-ef05e7826fa2.pdf?c=1768812340">Real-time emotional valence judgements during movie-watching reveal impaired language-emotion coupling in aphasia</a> <span class="venue">in review</span></span><span class="sep">·</span>
@@ -38,6 +46,10 @@ title: Research
 <div class="area">
 <h3>Bilingual and multilingual aphasia</h3>
 <p class="area-desc">In bilingual and multilingual aphasia, I study how recovery can be better predicted and supported by accounting for patient-specific factors. How do bilingual language experience and demographic factors shape treatment response and cross-language generalization? How can linguistic structure such as cognate overlap be exploited to refine clinical assessment? And do a speaker's two languages draw on a single, integrated lexical-semantic system?</p>
+<figure class="area-fig">
+<img src="/images/research/bilingual-cross-language.jpg" alt="Cross-language mechanisms in bilingual aphasia" loading="lazy">
+<figcaption>Cross-language mechanisms in bilingual aphasia: a shared semantic system and L1/L2 lexical networks, competing control theories, and four observed treatment-generalization patterns. Adapted from Russell-Meill, Marte, et al., <em>Brain Sciences</em> (2025), CC BY.</figcaption>
+</figure>
 <div class="repwork">
 <span class="lbl">Representative work</span>
 <span class="cite"><a class="title" href="https://doi.org/10.1016/j.cortex.2025.05.017">Cross-language interactions during sequential anomia treatment in three languages: Evidence from a trilingual person with aphasia</a> <span class="venue">Cortex, 2025</span></span><span class="sep">·</span>

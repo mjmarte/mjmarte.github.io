@@ -58,3 +58,21 @@
     color: #cfcfcf;
     padding: 0 7px;
 }
+
+.area-fig {
+    margin: 14px 0 16px;
+
+    img {
+        width: 100%;
+        height: auto;
+        display: block;
+        border: 1px solid rgba(0, 0, 0, 0.12);
+        border-radius: 3px;
+    }
+    figcaption {
+        font-size: 0.8em;
+        color: #8c8c8c;
+        font-style: italic;
+        margin-top: 6px;
+    }
+}
