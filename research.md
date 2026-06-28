@@ -13,7 +13,7 @@ title: Research
 <h3>Computational prediction of recovery</h3>
 <p class="area-desc">I build machine learning models that integrate behavioral, demographic, and structural-imaging features to forecast the magnitude, language, and time course of aphasia recovery, from acute prognosis within days of stroke to treatment response in the chronic phase.</p>
 <figure class="area-fig">
-<img src="/images/research/prediction-acute-pipeline.png" alt="Acute-phase machine-learning pipeline" loading="lazy">
+<img src="/images/research/prediction-acute-pipeline.jpg" alt="Acute-phase machine-learning pipeline" loading="lazy">
 <figcaption>Acute-phase machine-learning pipeline: hierarchical feature sets (clinical and demographic, lesion volume, anatomy, lesion-network disconnection), nested cross-validation, and evaluation with SHAP interpretation. From the acute-phase prediction study (in review).</figcaption>
 </figure>
 <div class="repwork">
