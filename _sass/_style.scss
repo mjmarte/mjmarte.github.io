@@ -130,6 +130,8 @@ hr {
 		float: none;
 		text-align: center;
 		width: 100%;
+		white-space: nowrap;
+		font-size: 0.72em;
 	}
 	#navlist li.alignable {
 		display: inline-block;
