@@ -3,8 +3,6 @@ layout: default
 title: Research
 ---
 
-<h1>Research</h1>
-
 <p class="research-lede first">My research is fundamentally concerned with improving the lives of those affected by communication impairment. Informed by my clinical experience, I pursue this by better accounting for the individual, by architecting predictive models that facilitate clinical decision-making about how and when to intervene, and by designing assessments that treat communication, the damaged brain, and its surrounding contexts more holistically.</p>
 
 <p class="research-lede">Specific questions include, but are not exclusive to: Who will recover with standard care, and who will not, early enough for the answer to guide treatment? What do standardized assessments overlook when they collapse performance into a single score? Once a patient is unlikely to improve on their own, which treatment, at what dose, and for whom, will alter the course? I am also thinking about what data and models can and cannot reliably tell us about these conditions and their trajectories, and why; how to make our approaches more interdisciplinary; and how to better characterize populations historically neglected in research on stroke and language, e.g., profoundly impaired individuals, multilingual speakers, and patients whose damage is not confined to the left hemisphere.</p>

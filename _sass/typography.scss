@@ -127,6 +127,19 @@ h2 {
                 text-decoration: none;
             }
         }
+        a.title-link {
+            font-family: "Lora", serif;
+            font-size: 1em;
+            padding: 0;
+            border: none;
+            border-radius: 0;
+            color: $accent;
+            &:hover {
+                background: none;
+                color: $accent;
+                text-decoration: underline;
+            }
+        }
     }
     .social-icons {
         display: flex;
