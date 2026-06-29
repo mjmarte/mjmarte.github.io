@@ -71,7 +71,7 @@ layout: default
 })();
 </script>
 
-Language disorders are among the most common and consequential sequelae of stroke, yet the standard tools used to assess and predict recovery remain limited. My research applies computational methods to poststroke communication deficits to improve their assessment, enhance their treatment, and optimize their prognosis. Read more about my work and interests on my [research](research) page.
+Language disorders are among the most common and consequential sequelae of stroke, yet the standard tools used to assess and predict recovery remain limited. My research applies computational methods to poststroke communication deficits to improve their assessment, enhance their treatment, and optimize their prognosis. For more on my work and interests, please see my [research](research) page.
 
 I am a Postdoctoral Research Fellow with Dr. [Argye E. Hillis](https://score.jhmi.edu/director.html) in the [SCORE Lab](https://score.jhmi.edu/index.html) ([Department of Neurology](https://www.hopkinsmedicine.org/neurology-neurosurgery), Johns Hopkins University) and a T32 NRSA Fellow at [Kennedy Krieger Institute](https://www.kennedykrieger.org). Here, I apply natural language processing, large language models, machine learning, and neuroimaging to study poststroke language function along multiple levels and across the trajectory of recovery.
 
