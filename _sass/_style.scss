@@ -55,6 +55,13 @@ hr {
     list-style-type: none;
     margin: 0 5px 0 10px;
 }
+.nav-list a.active {
+    color: #272727;
+    font-weight: 700;
+    &:hover {
+        text-decoration: none;
+    }
+}
 .alignable {
     display: inline-block;
 }
