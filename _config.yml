@@ -15,6 +15,9 @@ favicon_location: "/favicon.ico"
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
+plugins:
+  - jekyll-sitemap
+
 footer: yes
 footer_url: "https://score.jhmi.edu"
 footer_text: "SCORE Lab"

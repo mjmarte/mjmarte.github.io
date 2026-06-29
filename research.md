@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Research
+description: "Manuel Jose Marte's research program: computational prediction of recovery, measurement beyond standardized assessment, and bilingual and multilingual aphasia."
 ---
 
 <p class="research-lede first">My research is fundamentally concerned with improving the lives of those affected by communication impairment. Informed by my clinical experience, I pursue this by better accounting for the individual, by architecting predictive models that facilitate clinical decision-making about how and when to intervene, and by designing assessments that treat communication, the damaged brain, and its surrounding contexts more holistically.</p>
@@ -14,12 +15,12 @@ title: Research
 <p class="area-desc">I build machine learning models that integrate behavioral, demographic, and structural-imaging features to forecast the magnitude, language, and time course of aphasia recovery, from acute prognosis within days of stroke to treatment response in the chronic phase.</p>
 <figure class="area-fig">
 <img src="/images/research/prediction-acute-pipeline.jpg" alt="Acute-phase machine-learning pipeline" loading="lazy">
-<figcaption>Acute-phase machine-learning pipeline: hierarchical feature sets (clinical and demographic, lesion volume, anatomy, lesion-network disconnection), nested cross-validation, and evaluation with SHAP interpretation. From the acute-phase prediction study (in review).</figcaption>
+<figcaption>Acute-phase machine-learning pipeline: hierarchical feature sets (clinical and demographic, lesion volume, anatomy, lesion-network disconnection), nested cross-validation, and evaluation with SHAP interpretation. From the acute-phase prediction study (under review).</figcaption>
 </figure>
 <div class="repwork">
 <span class="lbl">Representative work</span>
 <span class="cite"><a class="title" href="https://doi.org/10.1161/STROKEAHA.124.047867">Machine learning predictions of recovery in bilingual post-stroke aphasia: Aligning insights with clinical evidence</a> <span class="venue">Stroke, 2025</span></span><span class="sep">·</span>
-<span class="cite"><a class="title" href="https://www.medrxiv.org/content/10.64898/2026.05.13.26353123v1">Acute-phase machine learning prediction of 12-month aphasia and discourse recovery</a> <span class="venue">in review</span></span><span class="sep">·</span>
+<span class="cite"><a class="title" href="https://www.medrxiv.org/content/10.64898/2026.05.13.26353123v1">Acute-phase machine learning prediction of 12-month aphasia and discourse recovery</a> <span class="venue">under review, Brain Communications</span></span><span class="sep">·</span>
 <span class="cite"><a class="title" href="https://doi.org/10.1038/s41746-026-02583-9">Predicting bilingual aphasia treatment outcomes using digital twins: A double-blind randomized controlled trial</a> <span class="venue">npj Digital Medicine, 2026</span></span><span class="sep">·</span>
 <span class="cite"><a class="title" href="https://doi.org/10.1146/annurev-linguistics-011724-121245">Charting the Course of Aphasia Recovery: Factors, Trajectories, and Outcomes</a> <span class="venue">Annual Review of Linguistics, 2025</span></span><span class="sep">·</span>
 <span class="cite"><a class="title" href="https://doi.org/10.1044/2024_PERSP-24-00037">An introduction to machine learning for speech-language pathologists: Concepts, terminology, and emerging applications</a> <span class="venue">Perspectives of the ASHA SIGs, 2025</span></span>
@@ -31,13 +32,13 @@ title: Research
 <p class="area-desc">Standardized batteries reduce language to a single severity dimension; I develop discourse-based and naturalistic, multimodal measures, e.g., connected-speech analysis, continuous affect rating and eye-tracking during movie-viewing, and LLM-augmented main-concept scoring, that index the linguistic, emotional, and attentional processes such testing renders invisible and that expose residual deficits in patients standard criteria classify as recovered.</p>
 <figure class="area-fig">
 <img src="/images/research/measurement-movie-valence.jpg" alt="Continuous valence ratings during naturalistic movie-viewing" loading="lazy">
-<figcaption>Continuous emotional valence ratings during naturalistic movie-viewing across film clips, in persons with aphasia (PWA) and healthy controls (HC). From the movie-watching study (in review).</figcaption>
+<figcaption>Continuous emotional valence ratings during naturalistic movie-viewing across film clips, in persons with aphasia (PWA) and healthy controls (HC). From the movie-watching study (under review).</figcaption>
 </figure>
 <div class="repwork">
 <span class="lbl">Representative work</span>
-<span class="cite"><a class="title" href="https://assets-eu.researchsquare.com/files/rs-8477032/v1_covered_5808bd6c-794c-4efc-9b1d-ef05e7826fa2.pdf?c=1768812340">Real-time emotional valence judgements during movie-watching reveal impaired language-emotion coupling in aphasia</a> <span class="venue">in review</span></span><span class="sep">·</span>
-<span class="cite"><a class="title" href="https://medrxiv.org/lookup/doi/10.64898/2026.06.19.26356022">Subtle language deficits in WAB-recovered patients at 12 months after left-hemisphere stroke</a> <span class="venue">in review</span></span><span class="sep">·</span>
-<span class="cite"><span class="title nolink">A naturalistic database for understanding individual differences in affective responses to movie clips</span> <span class="venue">in review</span></span><span class="sep">·</span>
+<span class="cite"><a class="title" href="https://assets-eu.researchsquare.com/files/rs-8477032/v1_covered_5808bd6c-794c-4efc-9b1d-ef05e7826fa2.pdf?c=1768812340">Real-time emotional valence judgements during movie-watching reveal impaired language-emotion coupling in aphasia</a> <span class="venue">under review, Nature Communications</span></span><span class="sep">·</span>
+<span class="cite"><a class="title" href="https://medrxiv.org/lookup/doi/10.64898/2026.06.19.26356022">Subtle language deficits in WAB-recovered patients at 12 months after left-hemisphere stroke</a> <span class="venue">under review, Aphasiology</span></span><span class="sep">·</span>
+<span class="cite"><span class="title nolink">A naturalistic database for understanding individual differences in affective responses to movie clips</span> <span class="venue">under review, Scientific Data</span></span><span class="sep">·</span>
 <span class="cite"><span class="title nolink">Automated multimodal main concept analysis for narrative discourse in aphasia</span> <span class="venue">in preparation</span></span><span class="sep">·</span>
 <span class="cite"><span class="title nolink">Divergent visual attention strategies in aphasia and mild cognitive impairment: Evidence from naturalistic movie-viewing</span> <span class="venue">in preparation</span></span>
 </div>

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Publications
+description: "Peer-reviewed publications, preprints, and works in progress by Manuel Jose Marte, spanning machine-learning prediction of recovery, naturalistic assessment, and bilingual aphasia."
 ---
 
 ## Peer-Reviewed Publications
