@@ -18,55 +18,30 @@ layout: default
 </div>
 
 <script>
-(function() {
-  var gifs = [
-    { src: "eyes-moving.gif", duration: 18240 },
-    { src: "brain.gif", duration: 7840 }
-  ];
+(function () {
+  // Each hover shows the next GIF in strict alternation (A, B, A, B, ...).
+  // No timers, so a clip is never auto-advanced or cut off mid-play.
+  var gifs = ["eyes-moving.gif", "brain.gif"];
   var el = document.getElementById("profile-hover");
+  if (!el) return;
   var gifImg = el.querySelector(".profile-gif");
-  var timer = null;
-  var hovering = false;
-  var currentIndex = -1;
+  var nextIndex = 0;
 
-  // Preload all GIFs so transitions are instant
-  gifs.forEach(function(g) {
-    var img = new Image();
-    img.src = g.src;
-  });
+  // Preload once so swaps are instant and restarts come from cache (no re-download).
+  gifs.forEach(function (src) { var img = new Image(); img.src = src; });
 
-  function pickRandom() {
-    if (gifs.length <= 1) return 0;
-    var idx;
-    do { idx = Math.floor(Math.random() * gifs.length); } while (idx === currentIndex);
-    return idx;
-  }
-
-  function showGif(index) {
-    currentIndex = index;
-    var g = gifs[index];
-    // Reset the GIF by reloading with a cache-bust, but image is already cached
-    gifImg.src = g.src + "?t=" + Date.now();
+  el.addEventListener("mouseenter", function () {
+    var src = gifs[nextIndex];
+    nextIndex = (nextIndex + 1) % gifs.length;
+    // Clearing then re-setting src forces the GIF to restart from frame 1,
+    // served from cache. Done while the layer is still transparent, so no flicker.
+    gifImg.src = "";
+    gifImg.src = src;
     gifImg.style.opacity = 1;
-    timer = setTimeout(function() {
-      if (hovering) {
-        var next = (index + 1) % gifs.length;
-        showGif(next);
-      }
-    }, g.duration);
-  }
-
-  el.addEventListener("mouseenter", function() {
-    hovering = true;
-    showGif(pickRandom());
   });
 
-  el.addEventListener("mouseleave", function() {
-    hovering = false;
-    clearTimeout(timer);
-    timer = null;
+  el.addEventListener("mouseleave", function () {
     gifImg.style.opacity = 0;
-    currentIndex = -1;
   });
 })();
 </script>
