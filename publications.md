@@ -18,7 +18,7 @@ Chen, X.J., <strong>Marte, M. J.</strong>, Kiran, S., & Blanco-Elorrieta, E. (20
 </li>
 
 <li value="10">
-Russell-Meill, M.<sup>*</sup>, <strong>Marte, M. J.</strong><sup>*</sup>, Carpenter, E.<sup>*</sup>, & Kiran, S. (2025). <a class="title-link" href="https://www.mdpi.com/2076-3425/15/9/989">Navigating the Complexity of Bilingual Aphasia: Current Insights and Future Directions.</a> <em>Brain Sciences</em>.
+Russell-Meill, M.<sup>‡</sup>, <strong>Marte, M. J.</strong><sup>‡</sup>, Carpenter, E.<sup>‡</sup>, & Kiran, S. (2025). <a class="title-link" href="https://www.mdpi.com/2076-3425/15/9/989">Navigating the Complexity of Bilingual Aphasia: Current Insights and Future Directions.</a> <em>Brain Sciences</em>.
 <a href="https://doi.org/10.3390/brainsci15090989">doi</a>
 </li>
 
@@ -44,7 +44,7 @@ Peñaloza, C., <strong>Marte, M. J.</strong>, Billot, A., & Kiran, S. (2025). <a
 </li>
 
 <li value="5">
-<strong>Marte, M. J.</strong><sup>*</sup>, Russell-Meill, M.<sup>*</sup>, Carvalho, N.<sup>*</sup>, & Kiran, S. (2025). <a class="title-link" href="https://www.annualreviews.org/content/journals/10.1146/annurev-linguistics-011724-121245">Charting the Course of Aphasia Recovery: Factors, Trajectories, and Outcomes.</a> <em>Annual Review of Linguistics</em>.
+<strong>Marte, M. J.</strong><sup>‡</sup>, Russell-Meill, M.<sup>‡</sup>, Carvalho, N.<sup>‡</sup>, & Kiran, S. (2025). <a class="title-link" href="https://www.annualreviews.org/content/journals/10.1146/annurev-linguistics-011724-121245">Charting the Course of Aphasia Recovery: Factors, Trajectories, and Outcomes.</a> <em>Annual Review of Linguistics</em>.
 <a href="https://doi.org/10.1146/annurev-linguistics-011724-121245">doi</a>
 &#8239;<a href="manuscripts/marte-et-al-annual-reviews-aphasia-2025.pdf">pdf</a>
 </li>
@@ -65,12 +65,12 @@ Cordella, C., <strong>Marte, M. J.</strong>, Liu, H., & Kiran, S. (2025). <a cla
 </li>
 
 <li value="1">
-<strong>Marte, M. J.</strong><sup>*</sup>, Carpenter, E.<sup>*</sup>, Falconer, I., Scimeca, M., Abdollahi, F., Peñaloza, C., & Kiran, S. (2022). <a class="title-link" href="https://www.frontiersin.org/articles/10.3389/fpsyg.2022.875928/full">LEX-BADAT: Language EXperience in Bilinguals With and Without Aphasia DATaset.</a> <em>Frontiers in Psychology</em>, 13:875928.
+<strong>Marte, M. J.</strong><sup>‡</sup>, Carpenter, E.<sup>‡</sup>, Falconer, I., Scimeca, M., Abdollahi, F., Peñaloza, C., & Kiran, S. (2022). <a class="title-link" href="https://www.frontiersin.org/articles/10.3389/fpsyg.2022.875928/full">LEX-BADAT: Language EXperience in Bilinguals With and Without Aphasia DATaset.</a> <em>Frontiers in Psychology</em>, 13:875928.
 <a href="https://doi.org/10.3389/fpsyg.2022.875928">doi</a>
 </li>
 </ol>
 
-<p class="pub-note"><sup>*</sup>shared first authorship; mentee</p>
+<p class="pub-note"><sup>‡</sup>shared first authorship &nbsp; <sup>*</sup>student mentee</p>
 
 ## Under Review
 
