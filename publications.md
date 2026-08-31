@@ -81,7 +81,7 @@ Cordella, C., <strong>Marte, M. J.</strong>, Liu, H., & Kiran, S. (2025). <a cla
 </li>
 
 <li>
-<strong>Marte, M. J.</strong>, Chaves, M.<sup>*</sup>, Kelly, L., Diaz-Carr, I., Neal, V., Stockbridge, M. D., & Hillis, A. E. (<em>under review, Brain Communications</em>). Acute-phase machine learning prediction of 12-month aphasia and discourse recovery.
+<strong>Marte, M. J.</strong>, Chaves, M.<sup>*</sup>, Kelly, L., Diaz-Carr, I., Neal, V., Stockbridge, M. D., & Hillis, A. E. (<em>in revision, Brain Communications</em>). Acute-phase machine learning prediction of 12-month aphasia and discourse recovery.
 <a href="https://www.medrxiv.org/content/10.64898/2026.05.13.26353123v1">preprint</a>
 </li>
 
@@ -91,7 +91,7 @@ Cordella, C., <strong>Marte, M. J.</strong>, Liu, H., & Kiran, S. (2025). <a cla
 </li>
 
 <li>
-Liebenthal, E., Girard, J., <strong>Marte, M. J.</strong>, Wei, X., & Tie, Y. (<em>under review, Scientific Data</em>). A naturalistic database for understanding individual differences in affective responses to movie clips.
+Liebenthal, E., Girard, J. M., <strong>Marte, M. J.</strong>, Wei, X., & Tie, Y. (<em>under review, Scientific Data</em>). A naturalistic database for understanding individual differences in affective responses to movie clips.
 </li>
 </ol>
 
@@ -99,7 +99,15 @@ Liebenthal, E., Girard, J., <strong>Marte, M. J.</strong>, Wei, X., & Tie, Y. (<
 
 <ol class="pub-list">
 <li>
-<strong>Marte, M. J.</strong>, Lee, S., Wang, S., Goldin, K.<sup>*</sup>, Girard, J., Varkanitsa, M., Tie, Y., Kiran, S., & Liebenthal, E. (<em>in preparation</em>). Automated multimodal main concept analysis for narrative discourse in aphasia.
+<strong>Marte, M. J.</strong>, Lee, S., Wang, S., Goldin, K.<sup>*</sup>, Girard, J. M., Varkanitsa, M., Tie, Y., Kiran, S., & Liebenthal, E. (<em>in preparation</em>). Assessing spoken discourse in aphasia using multimodal artificial intelligence.
+</li>
+
+<li>
+Wei, X., <strong>Marte, M. J.</strong>, Baker, J. T., Rigolo, L., Galvin, C. P., Tie, Y., & Liebenthal, E. (<em>in preparation</em>). Internal emotion and language traits shape shared neural responses to naturalistic social events.
+</li>
+
+<li>
+<strong>Marte, M. J.</strong>, Scimeca, M., & Russell-Meill, M. (<em>in preparation</em>). Considerations for the use of artificial intelligence in multilingual neurogenic populations. Invited contribution to <em>Topics in Language Disorders</em> special issue, Communication Care and the Need for Equity.
 </li>
 
 <li>
