@@ -76,7 +76,7 @@ Cordella, C., <strong>Marte, M. J.</strong>, Liu, H., & Kiran, S. (2025). <a cla
 
 <ol class="pub-list">
 <li>
-<strong>Marte, M. J.</strong>, Gillis, B., Wei, X., Galvin, C., Rigolo, L., Tie, Y., Kiran, S., & Liebenthal, E. (<em>under review, Nature Communications</em>). Real-time emotional valence judgements during movie-watching reveal impaired language-emotion coupling in aphasia.
+<strong>Marte, M. J.</strong>, Gillis, B., Wei, X., Galvin, C., Rigolo, L., Tie, Y., Kiran, S., & Liebenthal, E. (<em>in revision, Nature Communications</em>). Real-time emotional valence judgements during movie-watching reveal impaired language-emotion coupling in aphasia.
 <a href="https://assets-eu.researchsquare.com/files/rs-8477032/v1_covered_5808bd6c-794c-4efc-9b1d-ef05e7826fa2.pdf?c=1768812340">preprint</a>
 </li>
 
@@ -87,21 +87,27 @@ Cordella, C., <strong>Marte, M. J.</strong>, Liu, H., & Kiran, S. (2025). <a cla
 
 <li>
 <strong>Marte, M. J.</strong>, Chaves, M.<sup>*</sup>, Kelly, L., Diaz-Carr, I., Neal, V., Stockbridge, M. D., & Hillis, A. E. (<em>under review, Aphasiology</em>). Subtle language deficits in WAB-recovered patients at 12 months after left-hemisphere stroke.
-<a href="https://medrxiv.org/lookup/doi/10.64898/2026.06.19.26356022">preprint</a>
+<a href="https://doi.org/10.64898/2026.06.19.26356022">preprint</a>
 </li>
 
 <li>
 Liebenthal, E., Girard, J. M., <strong>Marte, M. J.</strong>, Wei, X., & Tie, Y. (<em>under review, Scientific Data</em>). A naturalistic database for understanding individual differences in affective responses to movie clips.
+<a href="https://assets-eu.researchsquare.com/files/rs-10155655/v1/55b3124f-71bf-43a3-bf82-b2e5a7eb60d9.pdf?c=1786429639">preprint</a>
+</li>
+
+<li>
+<strong>Marte, M. J.</strong>, Lee, S., Wang, S., Goldin, K.<sup>*</sup>, Varkanitsa, M., Girard, J. M., Brito, R., Wei, X., Baker, J. T., Tie, Y., Kiran, S., & Liebenthal, E. (<em>under review, Nature Computational Science</em>). Assessing spoken discourse in aphasia using multimodal artificial intelligence.
+<a href="https://www.medrxiv.org/content/10.64898/2026.09.27.26364108v1">preprint</a>
+</li>
+
+<li>
+<strong>Marte, M. J.</strong>, Kelly, L., Chao, R., DeWalt, C., Gentile, M., & Stockbridge, M. D. (<em>under review, npj Digital Medicine</em>). Open-weight large language models match speech-language pathologists in scoring acute aphasia from picture description.
 </li>
 </ol>
 
 ## In Preparation
 
 <ol class="pub-list">
-<li>
-<strong>Marte, M. J.</strong>, Lee, S., Wang, S., Goldin, K.<sup>*</sup>, Girard, J. M., Varkanitsa, M., Tie, Y., Kiran, S., & Liebenthal, E. (<em>in preparation</em>). Assessing spoken discourse in aphasia using multimodal artificial intelligence.
-</li>
-
 <li>
 Wei, X., <strong>Marte, M. J.</strong>, Baker, J. T., Rigolo, L., Galvin, C. P., Tie, Y., & Liebenthal, E. (<em>in preparation</em>). Internal emotion and language traits shape shared neural responses to naturalistic social events.
 </li>
@@ -112,5 +118,9 @@ Wei, X., <strong>Marte, M. J.</strong>, Baker, J. T., Rigolo, L., Galvin, C. P.,
 
 <li>
 <strong>Marte, M. J.</strong>, Gillis, B., Tie, Y., Kiran, S., & Liebenthal, E. (<em>in preparation</em>). Divergent visual attention strategies in aphasia and mild cognitive impairment: Evidence from naturalistic movie-viewing.
+</li>
+
+<li>
+Stockbridge, M. D., & <strong>Marte, M. J.</strong> (<em>in preparation</em>). Acetylcholinesterase Inhibition is Associated with Lower Odds of Post-Stroke Aphasia in Adults without Neurodegenerative Disorders.
 </li>
 </ol>
