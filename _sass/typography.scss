@@ -171,7 +171,7 @@ h2 {
     column-gap: 48px;
     align-items: start;
 
-    > hr, > .site-footer {
+    > hr, > .site-footer, > .affiliations {
         grid-column: 1 / -1;
     }
     .home-sidebar {
@@ -277,6 +277,40 @@ h2 {
             order: 2;
             margin-top: 2em;
         }
-        > hr, > .site-footer { order: 3; }
+        > .affiliations { order: 3; }
+        > hr, > .site-footer { order: 4; }
+    }
+}
+
+/* Affiliation logos: quiet grayscale strip, color on hover */
+
+.affiliations {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 28px 48px;
+    margin: 2.5em 0 0.5em;
+    padding-top: 2em;
+    border-top: 1px solid rgba(0, 45, 114, 0.1);
+    a {
+        display: block;
+        &:hover {
+            text-decoration: none;
+        }
+    }
+    img {
+        display: block;
+        width: auto;
+        height: 34px;
+        max-width: 170px;
+        object-fit: contain;
+        filter: grayscale(1);
+        opacity: 0.55;
+        transition: filter 0.2s ease, opacity 0.2s ease;
+    }
+    a:hover img {
+        filter: none;
+        opacity: 1;
     }
 }

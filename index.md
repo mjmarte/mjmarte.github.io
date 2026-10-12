@@ -73,3 +73,10 @@ Previously, I worked as a speech-language pathologist specializing in TBI and st
 When I am not working, I am spending time with my family, shooting hoops, and [reading](https://oku.club/user/mjm).
 
 </div>
+
+<section class="affiliations" aria-label="Affiliations">
+<a href="https://www.hopkinsmedicine.org/neurology-neurosurgery" title="Johns Hopkins University"><img src="images/logos/jhu.png" alt="Johns Hopkins University"></a>
+<a href="https://www.kennedykrieger.org" title="Kennedy Krieger Institute"><img src="images/logos/kki.svg" alt="Kennedy Krieger Institute"></a>
+<a href="https://bakerlab.mclean.harvard.edu/manuel-marte-bio/" title="McLean Hospital"><img src="images/logos/mclean.svg" alt="McLean Hospital"></a>
+<a href="https://www.bu.edu/cbr/" title="Boston University"><img src="images/logos/bu.svg" alt="Boston University"></a>
+</section>
