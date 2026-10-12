@@ -1,6 +1,6 @@
 ---
 layout: default
-news_limit: 8
+news_limit: 5
 content_class: home
 ---
 
@@ -21,14 +21,13 @@ content_class: home
 </div>
 
 <section class="news" aria-labelledby="news-heading">
-<h2 id="news-heading">News</h2>
-{% assign icons = "paper:fa-file-lines,preprint:fa-file-pen,talk:fa-person-chalkboard,award:fa-award,grant:fa-sack-dollar,media:fa-microphone,career:fa-briefcase" | split: "," %}
-{% capture news_items %}{% for item in site.data.news %}{% assign icon = "fa-circle" %}{% for pair in icons %}{% assign kv = pair | split: ":" %}{% if kv[0] == item.type %}{% assign icon = kv[1] %}{% endif %}{% endfor %}<li><i class="fas {{ icon }}" aria-hidden="true"></i><div><span class="news-date">{{ item.date }}</span> {{ item.text | markdownify | remove: "<p>" | remove: "</p>" | strip }}</div></li>
-{% if forloop.index == page.news_limit and forloop.last == false %}</ul><details><summary>Older news</summary><ul class="news-list">{% endif %}{% endfor %}{% endcapture %}
-<ul class="news-list">
-{{ news_items }}
-</ul>
-{% if site.data.news.size > page.news_limit %}</details>{% endif %}
+<h2 id="news-heading">Recent news</h2>
+<ol class="news-list">
+{% for item in site.data.news limit: page.news_limit %}<li>
+<div class="news-meta"><time>{{ item.date }}</time><span class="news-tag">{{ item.type }}</span></div>
+<p>{{ item.text | markdownify | remove: "<p>" | remove: "</p>" | strip }}</p>
+</li>
+{% endfor %}</ol>
 </section>
 </aside>
 

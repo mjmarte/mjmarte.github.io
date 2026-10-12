@@ -192,41 +192,74 @@ h2 {
 }
 
 .news {
-    margin-top: 1.5em;
+    margin-top: 1.75em;
+    padding: 1.1em 1.2em 0.4em;
+    background: #f6f8fb;
+    border-radius: 10px;
     h2 {
-        font-size: 1.1em;
-        margin: 0 0 0.6em;
-    }
-    .news-list {
-        padding: 0;
-        margin: 0;
-        li {
-            display: flex;
-            gap: 0.6em;
-            list-style: none;
-            margin: 0 0 0.75em;
-            font-size: 0.8em;
-            line-height: 1.45;
-        }
-        i {
-            color: $accent;
-            width: 1.1em;
-            flex-shrink: 0;
-            text-align: center;
-            margin-top: 0.25em;
-        }
-    }
-    .news-date {
-        display: block;
         font-family: "Inconsolata", monospace;
+        font-size: 0.75em;
         font-weight: 700;
-        color: #666;
-    }
-    summary {
-        cursor: pointer;
-        font-size: 0.8em;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
         color: $accent;
-        margin-bottom: 0.75em;
+        border: none;
+        margin: 0 0 1em;
+        padding: 0;
+    }
+    ol.news-list {
+        padding: 0 0 0 1em;
+        margin: 0;
+        border-left: 2px solid rgba(0, 45, 114, 0.15);
+        > li {
+            position: relative;
+            list-style: none;
+            margin: 0 0 1.1em;
+            &:before {
+                /* timeline dot */
+                content: "";
+                position: absolute;
+                left: calc(-1em - 6px);
+                top: 0.3em;
+                width: 10px;
+                height: 10px;
+                border-radius: 50%;
+                background: #fff;
+                border: 2px solid $accent;
+                box-sizing: border-box;
+            }
+            &:first-child:before {
+                background: $accent;
+            }
+        }
+    }
+    .news-meta {
+        display: flex;
+        align-items: center;
+        gap: 0.5em;
+        font-family: "Inconsolata", monospace;
+        font-size: 0.72em;
+        line-height: 1.2;
+        margin-bottom: 0.25em;
+    }
+    time {
+        color: #666;
+        font-weight: 700;
+    }
+    .news-tag {
+        padding: 1px 6px;
+        border-radius: 999px;
+        background: rgba(0, 45, 114, 0.08);
+        color: $accent;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+        font-size: 0.9em;
+    }
+    p {
+        margin: 0;
+        font-size: 0.8em;
+        line-height: 1.45;
+        color: #333;
     }
 }
 
