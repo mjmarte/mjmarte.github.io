@@ -269,6 +269,8 @@ h2 {
         display: flex;
         flex-direction: column;
         max-width: 600px;
+        padding: 0 22px;
+        box-sizing: border-box;
         .home-sidebar {
             display: contents;
         }
@@ -278,7 +280,7 @@ h2 {
             margin-top: 2em;
         }
         > .affiliations { order: 3; }
-        > hr, > .site-footer { order: 4; }
+        > hr, > .site-footer { order: 4; align-self: center; }
     }
 }
 
@@ -302,16 +304,16 @@ h2 {
     img {
         display: block;
         width: auto;
-        height: 34px;
-        max-width: 170px;
+        height: 36px;
+        max-width: 180px;
         object-fit: contain;
         filter: grayscale(1);
         opacity: 0.55;
         transition: filter 0.2s ease, opacity 0.2s ease;
     }
     /* optical balance: the boxed BU mark reads heavier, the JHU serif lighter */
-    img.logo-bu { height: 33px; }
-    img.logo-jhm { height: 88px; max-width: none; filter: grayscale(1) brightness(0.7); }
+    img.logo-bu { height: 35px; }
+    img.logo-jhm { height: 84px; max-width: none; filter: grayscale(1) brightness(0.7); }
     a:hover img.logo-jhm { filter: none; }
     a:hover img {
         filter: none;
