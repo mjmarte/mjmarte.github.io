@@ -311,8 +311,8 @@ h2 {
     }
     /* optical balance: the boxed BU mark reads heavier, the JHU serif lighter */
     img.logo-bu { height: 33px; }
-    img.logo-jhu { height: 38px; filter: grayscale(1) brightness(0.55); }
-    a:hover img.logo-jhu { filter: none; }
+    img.logo-jhm { height: 64px; max-width: none; filter: grayscale(1) brightness(0.7); }
+    a:hover img.logo-jhm { filter: none; }
     a:hover img {
         filter: none;
         opacity: 1;
