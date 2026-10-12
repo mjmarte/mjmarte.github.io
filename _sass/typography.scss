@@ -161,3 +161,89 @@ h2 {
         color: #666;
     }
 }
+
+/* Home page: sidebar (profile + news) beside the bio */
+
+.content.home {
+    max-width: 960px;
+    display: grid;
+    grid-template-columns: 290px minmax(0, 1fr);
+    column-gap: 48px;
+    align-items: start;
+
+    > hr, > .site-footer {
+        grid-column: 1 / -1;
+    }
+    .home-sidebar {
+        grid-column: 1;
+        grid-row: 1;
+    }
+    .home-main {
+        grid-column: 2;
+        grid-row: 1;
+        > p:first-child {
+            margin-top: 0;
+        }
+    }
+    .profile-card {
+        float: none;
+        margin: 0 auto 10px;
+    }
+}
+
+.news {
+    margin-top: 1.5em;
+    h2 {
+        font-size: 1.1em;
+        margin: 0 0 0.6em;
+    }
+    .news-list {
+        padding: 0;
+        margin: 0;
+        li {
+            display: flex;
+            gap: 0.6em;
+            list-style: none;
+            margin: 0 0 0.75em;
+            font-size: 0.8em;
+            line-height: 1.45;
+        }
+        i {
+            color: $accent;
+            width: 1.1em;
+            flex-shrink: 0;
+            text-align: center;
+            margin-top: 0.25em;
+        }
+    }
+    .news-date {
+        display: block;
+        font-family: "Inconsolata", monospace;
+        font-weight: 700;
+        color: #666;
+    }
+    summary {
+        cursor: pointer;
+        font-size: 0.8em;
+        color: $accent;
+        margin-bottom: 0.75em;
+    }
+}
+
+@media (max-width: 800px) {
+    .content.home {
+        /* Stack as profile, bio, news, footer */
+        display: flex;
+        flex-direction: column;
+        max-width: 600px;
+        .home-sidebar {
+            display: contents;
+        }
+        .home-main { order: 1; }
+        .news {
+            order: 2;
+            margin-top: 2em;
+        }
+        > hr, > .site-footer { order: 3; }
+    }
+}

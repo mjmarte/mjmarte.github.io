@@ -1,7 +1,10 @@
 ---
 layout: default
+news_limit: 8
+content_class: home
 ---
 
+<aside class="home-sidebar">
 <div class="profile-card">
 <div class="profile-hover" id="profile-hover">
 <img class="profile-picture" src="profile.jpg" alt="Manuel Jose Marte">
@@ -16,6 +19,18 @@ layout: default
 <a href="https://twitter.com/manueljmarte" title="Twitter / X"><i class="fa-brands fa-x-twitter"></i></a>
 </div>
 </div>
+
+<section class="news" aria-labelledby="news-heading">
+<h2 id="news-heading">News</h2>
+{% assign icons = "paper:fa-file-lines,preprint:fa-file-pen,talk:fa-person-chalkboard,award:fa-award,grant:fa-sack-dollar,media:fa-microphone,career:fa-briefcase" | split: "," %}
+{% capture news_items %}{% for item in site.data.news %}{% assign icon = "fa-circle" %}{% for pair in icons %}{% assign kv = pair | split: ":" %}{% if kv[0] == item.type %}{% assign icon = kv[1] %}{% endif %}{% endfor %}<li><i class="fas {{ icon }}" aria-hidden="true"></i><div><span class="news-date">{{ item.date }}</span> {{ item.text | markdownify | remove: "<p>" | remove: "</p>" | strip }}</div></li>
+{% if forloop.index == page.news_limit and forloop.last == false %}</ul><details><summary>Older news</summary><ul class="news-list">{% endif %}{% endfor %}{% endcapture %}
+<ul class="news-list">
+{{ news_items }}
+</ul>
+{% if site.data.news.size > page.news_limit %}</details>{% endif %}
+</section>
+</aside>
 
 <script>
 (function () {
@@ -46,12 +61,16 @@ layout: default
 })();
 </script>
 
+<div class="home-main" markdown="1">
+
 Language disorders are among the most common and consequential sequelae of stroke, yet the standard tools used to assess and predict recovery remain limited. My research applies computational methods to poststroke communication deficits to improve their assessment, enhance their treatment, and optimize their prognosis. For more on my work and interests, please see my [research](research) page.
 
 I am a Postdoctoral Research Fellow with Dr. [Argye E. Hillis](https://score.jhmi.edu/director.html) in the [SCORE Lab](https://score.jhmi.edu/index.html) ([Department of Neurology](https://www.hopkinsmedicine.org/neurology-neurosurgery), Johns Hopkins University) and a T32 NRSA Fellow at [Kennedy Krieger Institute](https://www.kennedykrieger.org). Here, I apply natural language processing, large language models, machine learning, and neuroimaging to study poststroke language function along multiple levels and across the trajectory of recovery.
 
-I completed my Ph.D. in [Speech, Language & Hearing Sciences](https://www.bu.edu/sargent/academics/departments-programs/speech-language-hearing-sciences/phd-in-slhs/), working with Dr. [Swathi Kiran](https://www.bu.edu/sargent/profile/swathi-kiran-ph-d-ccc-slp/) ([Center for Brain Recovery](https://www.bu.edu/cbr/), Boston University) and Dr. [Einat Liebenthal](https://ogephd.hms.harvard.edu/people/einat-liebenthal) ([Institute for Technology in Psychiatry](https://bakerlab.mclean.harvard.edu/institute-for-technology-in-psychiatry/), McLean Hospital, Harvard Medical School). 
+I completed my Ph.D. in [Speech, Language & Hearing Sciences](https://www.bu.edu/sargent/academics/departments-programs/speech-language-hearing-sciences/phd-in-slhs/), working with Dr. [Swathi Kiran](https://www.bu.edu/sargent/profile/swathi-kiran-ph-d-ccc-slp/) ([Center for Brain Recovery](https://www.bu.edu/cbr/), Boston University) and Dr. [Einat Liebenthal](https://ogephd.hms.harvard.edu/people/einat-liebenthal) ([Institute for Technology in Psychiatry](https://bakerlab.mclean.harvard.edu/institute-for-technology-in-psychiatry/), McLean Hospital, Harvard Medical School), where I remain an [affiliate](https://bakerlab.mclean.harvard.edu/manuel-marte-bio/) of the Baker Lab.
 
 Previously, I worked as a speech-language pathologist specializing in TBI and stroke neurorehabilitation at the [Northeast Center for Rehabilitation and Brain Injury](https://www.northeastcenter.com). I hold an M.S. from [SUNY New Paltz](https://www.newpaltz.edu/commdis/) and a B.A. from the [University at Buffalo](https://arts-sciences.buffalo.edu/cds.html).
 
 When I am not working, I am spending time with my family, shooting hoops, and [reading](https://oku.club/user/mjm).
+
+</div>

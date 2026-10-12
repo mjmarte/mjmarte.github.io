@@ -1,0 +1,68 @@
+# Home page news feed. Newest first; the first `news_limit` items (see index.md)
+# show by default and the rest sit under "Older news".
+# Fields: date (display text), text (Markdown; links allowed), type (paper,
+# preprint, talk, award, grant, media, career) picks the icon.
+
+- date: Nov 2026
+  type: talk
+  text: "Upcoming poster at **Society for Neuroscience 2026** (Washington, DC) on vascular territory and language outcomes after bilateral stroke, with an SfN Trainee Professional Development Award."
+
+- date: Oct 2026
+  type: talk
+  text: "Three posters at the **American Neurological Association 2026** Annual Meeting in San Diego, including 12-month language recovery prediction from acute stroke data."
+
+- date: Sep 2026
+  type: preprint
+  text: "New preprint: [Assessing spoken discourse in aphasia using multimodal artificial intelligence](https://www.medrxiv.org/content/10.64898/2026.09.27.26364108v1) (medRxiv)."
+
+- date: Sep 2026
+  type: award
+  text: "Presented at the **20th Eleanor M. Saffran Conference** in Philadelphia and received an NIH/NIDCD Student Scholar Award."
+
+- date: 2026
+  type: media
+  text: "Featured in *The Scientist*: [Postdoc Portrait: Manuel Marte Uses Computational Models to Predict Stroke Recovery](https://www.the-scientist.com/postdoc-portrait-manuel-marte-uses-computational-models-to-predict-stroke-recovery-75097)."
+
+- date: 2026
+  type: media
+  text: "Guest on the *Futurism at JHU* podcast: [Decoding Aphasia and Recovery From Stroke](https://open.spotify.com/episode/1ODn6Q5jdgYUgJJ3yYhEZP)."
+
+- date: 2026
+  type: grant
+  text: "Awarded the [Barbara Martin Aphasia Research Grant](https://aphasia.org/research-grant-program/barbara-martin-aphasia-research-grant/) (National Aphasia Association & Academy of Aphasia) and an NIH/NIDCD Clinical Research Loan Repayment Program award."
+
+- date: 2026
+  type: paper
+  text: "Published in *npj Digital Medicine*: [Predicting bilingual aphasia treatment outcomes using digital twins](https://www.nature.com/articles/s41746-026-02583-9), a double-blind RCT."
+
+- date: 2026
+  type: paper
+  text: "Published in *Aphasiology*: [Evidence for an integrated bilingual language system from discourse tasks in aphasia](https://www.tandfonline.com/doi/full/10.1080/02687038.2026.2624735)."
+
+- date: Jun 2026
+  type: preprint
+  text: "New preprint: [Subtle language deficits in WAB-recovered patients at 12 months after left-hemisphere stroke](https://doi.org/10.64898/2026.06.19.26356022) (medRxiv)."
+
+- date: May 2026
+  type: preprint
+  text: "New preprint: [Acute-phase machine learning prediction of 12-month aphasia and discourse recovery](https://www.medrxiv.org/content/10.64898/2026.05.13.26353123v1) (medRxiv)."
+
+- date: May 2026
+  type: talk
+  text: "Roundtable at the **Clinical Aphasiology Conference 2026** in Pittsburgh on aphasia taxonomy in the Information Age."
+
+- date: Mar 2026
+  type: talk
+  text: "Poster at the **39th Annual Conference on Human Sentence Processing** (Cambridge, MA) on multimodal AI for discourse assessment."
+
+- date: 2025
+  type: career
+  text: "Completed my Ph.D. at Boston University and joined the [SCORE Lab](https://score.jhmi.edu/index.html) at Johns Hopkins as a Postdoctoral Research Fellow."
+
+- date: 2025
+  type: paper
+  text: "Published in *Stroke*: [Machine learning predictions of recovery in bilingual post-stroke aphasia](https://mjmarte.github.io/manuscripts/marte-et-al-2025-machine-learning-predictions-of-recovery-in-bilingual-poststroke-aphasia-aligning-insights-with.pdf)."
+
+- date: May 2025
+  type: media
+  text: "Featured in *American Heart Association News*: [Speaking more than one language can add layers to stroke recovery](https://www.heart.org/en/news/2025/05/14/speaking-more-than-one-language-can-add-layers-to-stroke-recovery)."
