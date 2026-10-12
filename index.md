@@ -1,6 +1,6 @@
 ---
 layout: default
-news_limit: 5
+news_limit: 4
 content_class: home
 ---
 

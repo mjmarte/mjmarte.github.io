@@ -310,7 +310,7 @@ h2 {
         transition: filter 0.2s ease, opacity 0.2s ease;
     }
     /* optical balance: the boxed BU mark reads heavier, the JHU serif lighter */
-    img.logo-bu { height: 27px; }
+    img.logo-bu { height: 33px; }
     img.logo-jhu { height: 38px; filter: grayscale(1) brightness(0.55); }
     a:hover img.logo-jhu { filter: none; }
     a:hover img {

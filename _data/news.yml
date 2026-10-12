@@ -1,7 +1,11 @@
-# Home page news feed. Newest first; the home page shows the first five.
+# Home page news feed. Newest first; the home page shows the first four.
 # Only add things that have already happened.
 # Fields: date (display text), type (short label: Preprint, Paper, Poster,
 # Award, Grant, Media, Podcast, Career), text (Markdown; links allowed).
+
+- date: Oct 2026
+  type: Media
+  text: "Featured in *The Scientist*'s [Postdoc Portrait](https://www.the-scientist.com/postdoc-portrait-manuel-marte-uses-computational-models-to-predict-stroke-recovery-75097) series on computational models of stroke recovery."
 
 - date: Sep 2026
   type: Preprint
@@ -10,10 +14,6 @@
 - date: Sep 2026
   type: Grant
   text: "Awarded the [Barbara Martin Aphasia Research Grant](https://aphasia.org/research-grant-program/barbara-martin-aphasia-research-grant/) from the National Aphasia Association and Academy of Aphasia."
-
-- date: Sep 2026
-  type: Media
-  text: "Featured in *The Scientist*'s [Postdoc Portrait](https://www.the-scientist.com/postdoc-portrait-manuel-marte-uses-computational-models-to-predict-stroke-recovery-75097) series on computational models of stroke recovery."
 
 - date: Sep 2026
   type: Award
