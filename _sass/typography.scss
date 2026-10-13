@@ -144,7 +144,8 @@ h2 {
     .social-icons {
         display: flex;
         justify-content: center;
-        gap: 0.5em;
+        flex-wrap: wrap;
+        gap: 0.4em;
         margin-top: 0;
         font-size: 1.1em;
         a {
