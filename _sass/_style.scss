@@ -1,6 +1,43 @@
 @import "vars";
 
 /*
+ * Colour tokens. Light by default; dark follows the system setting.
+ */
+
+:root {
+    color-scheme: light dark;
+    --bg: #fff;
+    --text: #333;
+    --text-strong: #272727;
+    --text-soft: #555;
+    --muted: #767676;
+    --accent: #{$accent};
+    --accent-rgb: 0, 45, 114;
+    --on-accent: #fff;
+    --surface: #f6f8fb;
+    --line: rgba(0, 0, 0, 0.1);
+    --line-strong: #ccc;
+    --hr-hi: rgba(255, 255, 255, 0.3);
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg: #12151a;
+        --text: #cdd1d8;
+        --text-strong: #eceff4;
+        --text-soft: #a3aab6;
+        --muted: #8a919d;
+        --accent: #8fb4ff;
+        --accent-rgb: 143, 180, 255;
+        --on-accent: #0f1318;
+        --surface: #1a1e25;
+        --line: rgba(255, 255, 255, 0.1);
+        --line-strong: #3a404a;
+        --hr-hi: transparent;
+    }
+}
+
+/*
  * Basic
  */
 
@@ -15,20 +52,26 @@ body {
     height: 100%;
     font-size: 17px;
     line-height: 1.6;
-    color: #333;
+    color: var(--text);
+    background: var(--bg);
 }
 a {
     text-decoration: none;
-    color: $accent;
+    color: var(--accent);
 }
 a:hover {
     text-decoration: underline;
 }
+a:focus-visible {
+    outline: 2px solid rgba(var(--accent-rgb), 0.65);
+    outline-offset: 3px;
+    border-radius: 2px;
+}
 hr {
     border: 0;
     height: 0;
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--hr-hi);
 }
 
 /*
@@ -38,7 +81,7 @@ hr {
 #author-name {
     font-family: "Inconsolata", monospace;
     font-size: 30px;
-    color: #272727;
+    color: var(--text-strong);
     display: inline-block;
 }
 .navbar {
@@ -56,11 +99,11 @@ hr {
     margin: 0 5px 0 10px;
 }
 .nav-list a.active {
-    color: #272727;
-    font-weight: 700;
-    &:hover {
-        text-decoration: none;
-    }
+    color: var(--text-strong);
+    text-decoration: underline;
+    text-decoration-color: rgba(var(--accent-rgb), 0.45);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.4em;
 }
 .alignable {
     display: inline-block;
@@ -89,9 +132,9 @@ hr {
 .site-footer {
     text-align: center;
     margin-bottom: 10px;
-    color: #888;
+    color: var(--muted);
     a {
-        color: black;
+        color: var(--text-strong);
     }
 }
 

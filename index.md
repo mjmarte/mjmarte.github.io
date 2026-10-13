@@ -12,12 +12,12 @@ content_class: home
 </div>
 <p class="profile-cta">Find me:</p>
 <div class="social-icons">
-<a href="mailto:mmarte1@jh.edu" title="Email"><i class="fas fa-envelope"></i></a>
-<a href="https://orcid.org/0000-0002-1837-601X" title="ORCID"><i class="ai ai-orcid"></i></a>
-<a href="https://scholar.google.com/citations?user=R3M1K-MAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-<a href="https://github.com/mjmarte" title="GitHub"><i class="fa-brands fa-github"></i></a>
-<a href="https://bsky.app/profile/mjm.bsky.social" title="Bluesky"><i class="fa-brands fa-bluesky"></i></a>
-<a href="https://twitter.com/manueljmarte" title="Twitter / X"><i class="fa-brands fa-x-twitter"></i></a>
+<a href="mailto:mmarte1@jh.edu" title="Email" aria-label="Email"><i class="fas fa-envelope" aria-hidden="true"></i></a>
+<a href="https://orcid.org/0000-0002-1837-601X" title="ORCID" aria-label="ORCID"><i class="ai ai-orcid" aria-hidden="true"></i></a>
+<a href="https://scholar.google.com/citations?user=R3M1K-MAAAAJ" title="Google Scholar" aria-label="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i></a>
+<a href="https://github.com/mjmarte" title="GitHub" aria-label="GitHub"><i class="fa-brands fa-github" aria-hidden="true"></i></a>
+<a href="https://bsky.app/profile/mjm.bsky.social" title="Bluesky" aria-label="Bluesky"><i class="fa-brands fa-bluesky" aria-hidden="true"></i></a>
+<a href="https://twitter.com/manueljmarte" title="Twitter / X" aria-label="Twitter / X"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i></a>
 </div>
 </div>
 
