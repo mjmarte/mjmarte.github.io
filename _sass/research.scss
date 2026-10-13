@@ -100,11 +100,3 @@
         margin-top: 6px;
     }
 }
-
-/* Dark mode: plots keep their colours but lose the glare of a white page */
-
-@media (prefers-color-scheme: dark) {
-    .area-fig img {
-        filter: brightness(0.88);
-    }
-}
