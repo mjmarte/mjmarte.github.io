@@ -1,11 +1,11 @@
 @import "vars";
 
 /*
- * Colour tokens. Light by default; dark follows the system setting.
+ * Colour tokens
  */
 
 :root {
-    color-scheme: light dark;
+    color-scheme: light;
     --bg: #fff;
     --text: #333;
     --text-strong: #272727;
@@ -18,23 +18,6 @@
     --line: rgba(0, 0, 0, 0.1);
     --line-strong: #ccc;
     --hr-hi: rgba(255, 255, 255, 0.3);
-}
-
-@media (prefers-color-scheme: dark) {
-    :root {
-        --bg: #12151a;
-        --text: #cdd1d8;
-        --text-strong: #eceff4;
-        --text-soft: #a3aab6;
-        --muted: #8a919d;
-        --accent: #8fb4ff;
-        --accent-rgb: 143, 180, 255;
-        --on-accent: #0f1318;
-        --surface: #1a1e25;
-        --line: rgba(255, 255, 255, 0.1);
-        --line-strong: #3a404a;
-        --hr-hi: transparent;
-    }
 }
 
 /*
