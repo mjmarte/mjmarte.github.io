@@ -205,11 +205,6 @@ h2 {
     .home-sidebar {
         grid-column: 2;
         grid-row: 1;
-        /* stays in view while a longer bio scrolls, if the window is tall enough to hold it */
-        @media (min-height: 760px) {
-            position: sticky;
-            top: 28px;
-        }
     }
     .home-main {
         grid-column: 1;
