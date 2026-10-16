@@ -20,7 +20,7 @@ description: "Manuel Jose Marte's research program: computational prediction of 
 <div class="repwork">
 <span class="lbl">Representative work</span>
 <span class="cite"><a class="title" href="https://doi.org/10.1161/STROKEAHA.124.047867">Machine learning predictions of recovery in bilingual post-stroke aphasia: Aligning insights with clinical evidence</a> <span class="venue">Stroke, 2025</span></span><span class="sep">·</span>
-<span class="cite"><a class="title" href="https://www.medrxiv.org/content/10.64898/2026.05.13.26353123v1">Acute-phase machine learning prediction of 12-month aphasia and discourse recovery</a> <span class="venue">in revision, Brain Communications</span></span><span class="sep">·</span>
+<span class="cite"><a class="title" href="https://www.medrxiv.org/content/10.64898/2026.05.13.26353123v1">Acute-phase machine learning prediction of 12-month aphasia and discourse recovery</a> <span class="venue">in revision</span></span><span class="sep">·</span>
 <span class="cite"><a class="title" href="https://doi.org/10.1038/s41746-026-02583-9">Predicting bilingual aphasia treatment outcomes using digital twins: A double-blind randomized controlled trial</a> <span class="venue">npj Digital Medicine, 2026</span></span><span class="sep">·</span>
 <span class="cite"><a class="title" href="https://doi.org/10.1146/annurev-linguistics-011724-121245">Charting the Course of Aphasia Recovery: Factors, Trajectories, and Outcomes</a> <span class="venue">Annual Review of Linguistics, 2025</span></span><span class="sep">·</span>
 <span class="cite"><a class="title" href="https://doi.org/10.1044/2024_PERSP-24-00037">An introduction to machine learning for speech-language pathologists: Concepts, terminology, and emerging applications</a> <span class="venue">Perspectives of the ASHA SIGs, 2025</span></span>
@@ -36,18 +36,18 @@ description: "Manuel Jose Marte's research program: computational prediction of 
 </figure>
 <div class="repwork">
 <span class="lbl">Representative work</span>
-<span class="cite"><a class="title" href="https://assets-eu.researchsquare.com/files/rs-8477032/v1_covered_5808bd6c-794c-4efc-9b1d-ef05e7826fa2.pdf?c=1768812340">Real-time emotional valence judgements during movie-watching reveal impaired language-emotion coupling in aphasia</a> <span class="venue">in revision, Nature Communications</span></span><span class="sep">·</span>
-<span class="cite"><a class="title" href="https://www.medrxiv.org/content/10.64898/2026.09.27.26364108v1">Assessing spoken discourse in aphasia using multimodal artificial intelligence</a> <span class="venue">under review, Nature Computational Science</span></span><span class="sep">·</span>
-<span class="cite"><span class="title nolink">Open-weight large language models match speech-language pathologists in scoring acute aphasia from picture description</span> <span class="venue">under review, npj Digital Medicine</span></span><span class="sep">·</span>
-<span class="cite"><a class="title" href="https://doi.org/10.64898/2026.06.19.26356022">Subtle language deficits in WAB-recovered patients at 12 months after left-hemisphere stroke</a> <span class="venue">under review, Aphasiology</span></span><span class="sep">·</span>
-<span class="cite"><a class="title" href="https://assets-eu.researchsquare.com/files/rs-10155655/v1/55b3124f-71bf-43a3-bf82-b2e5a7eb60d9.pdf?c=1786429639">A naturalistic database for understanding individual differences in affective responses to movie clips</a> <span class="venue">under review, Scientific Data</span></span><span class="sep">·</span>
+<span class="cite"><a class="title" href="https://assets-eu.researchsquare.com/files/rs-8477032/v1_covered_5808bd6c-794c-4efc-9b1d-ef05e7826fa2.pdf?c=1768812340">Real-time emotional valence judgements during movie-watching reveal impaired language-emotion coupling in aphasia</a> <span class="venue">in revision</span></span><span class="sep">·</span>
+<span class="cite"><a class="title" href="https://assets-eu.researchsquare.com/files/rs-10155655/v1/55b3124f-71bf-43a3-bf82-b2e5a7eb60d9.pdf?c=1786429639">A naturalistic database for understanding individual differences in affective responses to movie clips</a> <span class="venue">in revision</span></span><span class="sep">·</span>
+<span class="cite"><a class="title" href="https://www.medrxiv.org/content/10.64898/2026.09.27.26364108v1">Assessing spoken discourse in aphasia using multimodal artificial intelligence</a> <span class="venue">under review</span></span><span class="sep">·</span>
+<span class="cite"><span class="title nolink">Open-weight large language models match speech-language pathologists in scoring acute aphasia from picture description</span> <span class="venue">under review</span></span><span class="sep">·</span>
+<span class="cite"><a class="title" href="https://doi.org/10.64898/2026.06.19.26356022">Subtle language deficits in WAB-recovered patients at 12 months after left-hemisphere stroke</a> <span class="venue">under review</span></span><span class="sep">·</span>
 <span class="cite"><span class="title nolink">Divergent visual attention strategies in aphasia and mild cognitive impairment: Evidence from naturalistic movie-viewing</span> <span class="venue">in preparation</span></span>
 </div>
 </div>
 
 <div class="area">
 <h3>Bilingual and multilingual aphasia</h3>
-<p class="area-desc">In bilingual and multilingual aphasia, I study how recovery can be better predicted and supported by accounting for patient-specific factors. How do bilingual language experience and demographic factors shape treatment response and cross-language generalization? How can linguistic structure such as cognate overlap be exploited to refine clinical assessment? And do a speaker's two languages draw on a single, integrated lexical-semantic system? A related line of work examines disparities in recovery, including how social determinants of health relate to communication difficulties after stroke.</p>
+<p class="area-desc">In bilingual and multilingual aphasia, I study how recovery can be better predicted and supported by accounting for patient-specific factors. How do bilingual language experience and demographic factors shape treatment response and cross-language generalization? How can linguistic structure such as cognate overlap be exploited to refine clinical assessment? And do a speaker's two languages draw on a single, integrated lexical-semantic system? A related line of work examines disparities in recovery, including how social determinants of health, such as area-level deprivation, relate to communication difficulties and recovery after stroke.</p>
 <figure class="area-fig">
 <img src="/images/research/bilingual-cross-language.jpg" alt="Cross-language mechanisms in bilingual aphasia" loading="lazy">
 <figcaption>Cross-language mechanisms in bilingual aphasia: a shared semantic system and L1/L2 lexical networks, competing control theories, and four observed treatment-generalization patterns. Adapted from Russell-Meill, Marte, et al., <em>Brain Sciences</em> (2025), CC BY.</figcaption>
@@ -61,13 +61,14 @@ description: "Manuel Jose Marte's research program: computational prediction of 
 <span class="cite"><a class="title" href="https://doi.org/10.1017/S1366728923000251">The cognate effect on lexical access in bilingual aphasia: Evidence from the Boston Naming Test</a> <span class="venue">Bilingualism: Language and Cognition, 2023</span></span><span class="sep">·</span>
 <span class="cite"><a class="title" href="https://doi.org/10.3389/fpsyg.2022.875928">LEX-BADAT: Language EXperience in Bilinguals With and Without Aphasia DATaset</a> <span class="venue">Frontiers in Psychology, 2022</span></span><span class="sep">·</span>
 <span class="cite"><a class="title" href="https://doi.org/10.3390/brainsci15090989">Navigating the Complexity of Bilingual Aphasia: Current Insights and Future Directions</a> <span class="venue">Brain Sciences, 2025</span></span><span class="sep">·</span>
+<span class="cite"><span class="title nolink">Considerations for the use of artificial intelligence in multilingual neurogenic populations</span> <span class="venue">in preparation, Topics in Language Disorders</span></span><span class="sep">·</span>
 <span class="cite"><a class="title" href="https://doi.org/10.1044/2023_AJSLP-23-00232">Association Between Social Determinants of Health and Communication Difficulties in Poststroke U.S. Hispanic and Non-Hispanic White Populations</a> <span class="venue">American Journal of Speech-Language Pathology, 2024</span></span>
 </div>
 </div>
 
 <div class="area">
 <h3>Targeted neuromodulation</h3>
-<p class="area-desc">I study how predictions of recovery can guide neuromodulation after stroke. I am leading the development of a waitlist-controlled randomized trial that stages cerebellar neuromodulation by algorithmic prediction, and I administer high-definition transcranial direct current stimulation (HD-tDCS) to patients with acute stroke in the Emergency Department for the TESSERACT-II trial.</p>
+<p class="area-desc">I study how predictions of recovery can guide neuromodulation after stroke. I am leading the development of a waitlist-controlled randomized trial that stages cerebellar neuromodulation by algorithmic prediction, and I administer high-definition transcranial direct current stimulation (HD-tDCS) to patients with acute stroke in the Emergency Department for the TESSERACT-II trial. A related question is whether pharmacological modulation, such as acetylcholinesterase inhibition, is associated with lower odds of post-stroke aphasia in adults without neurodegenerative disorders.</p>
 </div>
 
 <div class="areas-label">Current support</div>
