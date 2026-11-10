@@ -2,11 +2,11 @@ locale: "en-US"
 title: "Manuel Jose Marte"
 author: "Manuel Jose Marte"
 description: "Manuel Jose Marte – Postdoctoral Research Fellow, Johns Hopkins University"
-url: https://mjmarte.github.io
+url: https://manueljmarte.com
 
 # Social share / link-preview image
-og_image: "https://mjmarte.github.io/images/og-card.png"
-profile_picture: "https://mjmarte.github.io/profile.jpg"
+og_image: "https://manueljmarte.com/images/og-card.png"
+profile_picture: "https://manueljmarte.com/profile.jpg"
 
 # Browser tab icon
 favicon: true
