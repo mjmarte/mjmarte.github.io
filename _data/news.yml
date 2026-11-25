@@ -3,6 +3,22 @@
 # Fields: date (display text), type (short label: Preprint, Paper, Poster,
 # Award, Grant, Media, Podcast, Career), text (Markdown; links allowed).
 
+- date: Nov 2026
+  type: Paper
+  text: "\"Altered emotional reactivity in aphasia during naturalistic movie-viewing\" accepted in *Nature Communications*."
+
+- date: Nov 2026
+  type: Paper
+  text: "[Subtle aphasia above the WAB-R cutoff one year after left-hemisphere stroke](https://doi.org/10.1080/02687038.2026.2757091), in *Aphasiology*."
+
+- date: Nov 2026
+  type: Award
+  text: "Trainee Professional Development Award and poster on right-hemisphere damage and aphasia at *Neuroscience 2026* (SfN), Washington, DC."
+
+- date: Oct 2026
+  type: Poster
+  text: "Three posters at the American Neurological Association 2026 Annual Meeting, San Diego, including 12-month language recovery prediction from acute stroke data."
+
 - date: Oct 2026
   type: Media
   text: "Featured in *The Scientist*'s [Postdoc Portrait](https://www.the-scientist.com/postdoc-portrait-manuel-marte-uses-computational-models-to-predict-stroke-recovery-75097) series on computational models of stroke recovery."

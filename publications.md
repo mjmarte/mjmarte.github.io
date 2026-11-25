@@ -7,6 +7,16 @@ description: "Peer-reviewed publications, preprints, and works in progress by Ma
 ## Peer-Reviewed Publications
 
 <ol class="pub-list" reversed>
+<li value="14">
+<strong>Marte, M. J.</strong>, Gillis, B., Wei, X., Galvin, C., Rigolo, L., Tie, Y., Kiran, S., & Liebenthal, E. (<em>accepted</em>). <a class="title-link" href="https://assets-eu.researchsquare.com/files/rs-8477032/v1_covered_5808bd6c-794c-4efc-9b1d-ef05e7826fa2.pdf?c=1768812340">Altered emotional reactivity in aphasia during naturalistic movie-viewing.</a> <em>Nature Communications</em>.
+<a href="https://assets-eu.researchsquare.com/files/rs-8477032/v1_covered_5808bd6c-794c-4efc-9b1d-ef05e7826fa2.pdf?c=1768812340">preprint</a>
+</li>
+
+<li value="13">
+<strong>Marte, M. J.</strong>, Chaves, M.<sup>*</sup>, Kelly, L., Diaz-Carr, I., Neal, V., Stockbridge, M. D., & Hillis, A. E. (2026). <a class="title-link" href="https://doi.org/10.1080/02687038.2026.2757091">Subtle aphasia above the WAB-R cutoff one year after left-hemisphere stroke.</a> <em>Aphasiology</em>.
+<a href="https://doi.org/10.1080/02687038.2026.2757091">doi</a>
+</li>
+
 <li value="12">
 Kiran, S., Carpenter, E., Grasemann, U., Scimeca, M., <strong>Marte, M. J.</strong>, Russell-Meill, M., Peñaloza, C., Tripodis, Y., & Miikkulainen, R. (2026). <a class="title-link" href="https://doi.org/10.1038/s41746-026-02583-9">Predicting bilingual aphasia treatment outcomes using digital twins: A double-blind randomized controlled trial.</a> <em>npj Digital Medicine</em>.
 <a href="https://doi.org/10.1038/s41746-026-02583-9">doi</a>
@@ -75,10 +85,6 @@ Cordella, C., <strong>Marte, M. J.</strong>, Liu, H., & Kiran, S. (2025). <a cla
 ## Under Review
 
 <ol class="pub-list">
-<li>
-<strong>Marte, M. J.</strong>, Gillis, B., Wei, X., Galvin, C., Rigolo, L., Tie, Y., Kiran, S., & Liebenthal, E. (<em>in revision</em>). Real-time emotional valence judgements during movie-watching reveal impaired language-emotion coupling in aphasia.
-<a href="https://assets-eu.researchsquare.com/files/rs-8477032/v1_covered_5808bd6c-794c-4efc-9b1d-ef05e7826fa2.pdf?c=1768812340">preprint</a>
-</li>
 
 <li>
 <strong>Marte, M. J.</strong>, Chaves, M.<sup>*</sup>, Kelly, L., Diaz-Carr, I., Neal, V., Stockbridge, M. D., & Hillis, A. E. (<em>in revision</em>). Acute-phase machine learning prediction of 12-month aphasia and discourse recovery.
@@ -88,11 +94,6 @@ Cordella, C., <strong>Marte, M. J.</strong>, Liu, H., & Kiran, S. (2025). <a cla
 <li>
 Liebenthal, E., Girard, J. M., <strong>Marte, M. J.</strong>, Wei, X., & Tie, Y. (<em>in revision</em>). A naturalistic database for understanding individual differences in affective responses to movie clips.
 <a href="https://assets-eu.researchsquare.com/files/rs-10155655/v1/55b3124f-71bf-43a3-bf82-b2e5a7eb60d9.pdf?c=1786429639">preprint</a>
-</li>
-
-<li>
-<strong>Marte, M. J.</strong>, Chaves, M.<sup>*</sup>, Kelly, L., Diaz-Carr, I., Neal, V., Stockbridge, M. D., & Hillis, A. E. (<em>under review</em>). Subtle language deficits in WAB-recovered patients at 12 months after left-hemisphere stroke.
-<a href="https://doi.org/10.64898/2026.06.19.26356022">preprint</a>
 </li>
 
 <li>

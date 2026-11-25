@@ -32,15 +32,15 @@ description: "Manuel Jose Marte's research program: computational prediction of 
 <p class="area-desc">Standardized batteries reduce language to a single severity dimension; I develop discourse-based and naturalistic, multimodal measures (e.g., connected-speech analysis, continuous affect rating and eye-tracking during movie-viewing, and LLM-based discourse scoring) that index the linguistic, emotional, and attentional processes such testing renders invisible and that expose residual deficits in patients standard criteria classify as recovered. A current project tests the feasibility of acute bedside discourse assessment across hemispheric stroke profiles.</p>
 <figure class="area-fig">
 <img src="/images/research/measurement-movie-valence.jpg" alt="Continuous valence ratings during naturalistic movie-viewing" loading="lazy">
-<figcaption>Continuous emotional valence ratings during naturalistic movie-viewing across film clips, in persons with aphasia (PWA) and healthy controls (HC). From the movie-watching study (in revision).</figcaption>
+<figcaption>Continuous emotional valence ratings during naturalistic movie-viewing across film clips, in persons with aphasia (PWA) and healthy controls (HC). From the movie-watching study (accepted, <em>Nature Communications</em>).</figcaption>
 </figure>
 <div class="repwork">
 <span class="lbl">Representative work</span>
-<span class="cite"><a class="title" href="https://assets-eu.researchsquare.com/files/rs-8477032/v1_covered_5808bd6c-794c-4efc-9b1d-ef05e7826fa2.pdf?c=1768812340">Real-time emotional valence judgements during movie-watching reveal impaired language-emotion coupling in aphasia</a> <span class="venue">in revision</span></span><span class="sep">·</span>
+<span class="cite"><a class="title" href="https://assets-eu.researchsquare.com/files/rs-8477032/v1_covered_5808bd6c-794c-4efc-9b1d-ef05e7826fa2.pdf?c=1768812340">Altered emotional reactivity in aphasia during naturalistic movie-viewing</a> <span class="venue">Nature Communications (accepted)</span></span><span class="sep">·</span>
 <span class="cite"><a class="title" href="https://assets-eu.researchsquare.com/files/rs-10155655/v1/55b3124f-71bf-43a3-bf82-b2e5a7eb60d9.pdf?c=1786429639">A naturalistic database for understanding individual differences in affective responses to movie clips</a> <span class="venue">in revision</span></span><span class="sep">·</span>
 <span class="cite"><a class="title" href="https://www.medrxiv.org/content/10.64898/2026.09.27.26364108v1">Assessing spoken discourse in aphasia using multimodal artificial intelligence</a> <span class="venue">under review</span></span><span class="sep">·</span>
 <span class="cite"><span class="title nolink">Open-weight large language models match speech-language pathologists in scoring acute aphasia from picture description</span> <span class="venue">under review</span></span><span class="sep">·</span>
-<span class="cite"><a class="title" href="https://doi.org/10.64898/2026.06.19.26356022">Subtle language deficits in WAB-recovered patients at 12 months after left-hemisphere stroke</a> <span class="venue">under review</span></span><span class="sep">·</span>
+<span class="cite"><a class="title" href="https://doi.org/10.1080/02687038.2026.2757091">Subtle aphasia above the WAB-R cutoff one year after left-hemisphere stroke</a> <span class="venue">Aphasiology, 2026</span></span><span class="sep">·</span>
 <span class="cite"><span class="title nolink">Divergent visual attention strategies in aphasia and mild cognitive impairment: Evidence from naturalistic movie-viewing</span> <span class="venue">in preparation</span></span>
 </div>
 </div>
